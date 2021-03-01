@@ -1,0 +1,3140 @@
+State,State_name,County,County_Name,Region_name,Region
+1,ALABAMA,1,Autauga,Region 4,4
+1,ALABAMA,3,Baldwin,Region 4,4
+1,ALABAMA,5,Barbour,Region 4,4
+1,ALABAMA,7,Bibb,Region 4,4
+1,ALABAMA,9,Blount,Region 4,4
+1,ALABAMA,11,Bullock,Region 4,4
+1,ALABAMA,13,Butler,Region 4,4
+1,ALABAMA,15,Calhoun,Region 4,4
+1,ALABAMA,17,Chambers,Region 4,4
+1,ALABAMA,19,Cherokee,Region 4,4
+1,ALABAMA,21,Chilton,Region 4,4
+1,ALABAMA,23,Choctaw,Region 4,4
+1,ALABAMA,25,Clarke,Region 4,4
+1,ALABAMA,27,Clay,Region 4,4
+1,ALABAMA,29,Cleburne,Region 4,4
+1,ALABAMA,31,Coffee,Region 4,4
+1,ALABAMA,33,Colbert,Region 4,4
+1,ALABAMA,35,Conecuh,Region 4,4
+1,ALABAMA,37,Coosa,Region 4,4
+1,ALABAMA,39,Covington,Region 4,4
+1,ALABAMA,41,Crenshaw,Region 4,4
+1,ALABAMA,43,Cullman,Region 4,4
+1,ALABAMA,45,Dale,Region 4,4
+1,ALABAMA,47,Dallas,Region 4,4
+1,ALABAMA,49,DeKalb,Region 4,4
+1,ALABAMA,51,Elmore,Region 4,4
+1,ALABAMA,53,Escambia,Region 4,4
+1,ALABAMA,55,Etowah,Region 4,4
+1,ALABAMA,57,Fayette,Region 4,4
+1,ALABAMA,59,Franklin,Region 4,4
+1,ALABAMA,61,Geneva,Region 4,4
+1,ALABAMA,63,Greene,Region 4,4
+1,ALABAMA,65,Hale,Region 4,4
+1,ALABAMA,67,Henry,Region 4,4
+1,ALABAMA,69,Houston,Region 4,4
+1,ALABAMA,71,Jackson,Region 4,4
+1,ALABAMA,73,Jefferson,Region 4,4
+1,ALABAMA,75,Lamar,Region 4,4
+1,ALABAMA,77,Lauderdale,Region 4,4
+1,ALABAMA,79,Lawrence,Region 4,4
+1,ALABAMA,81,Lee,Region 4,4
+1,ALABAMA,83,Limestone,Region 4,4
+1,ALABAMA,85,Lowndes,Region 4,4
+1,ALABAMA,87,Macon,Region 4,4
+1,ALABAMA,89,Madison,Region 4,4
+1,ALABAMA,91,Marengo,Region 4,4
+1,ALABAMA,93,Marion,Region 4,4
+1,ALABAMA,95,Marshall,Region 4,4
+1,ALABAMA,97,Mobile,Region 4,4
+1,ALABAMA,99,Monroe,Region 4,4
+1,ALABAMA,101,Montgomery,Region 4,4
+1,ALABAMA,103,Morgan,Region 4,4
+1,ALABAMA,105,Perry,Region 4,4
+1,ALABAMA,107,Pickens,Region 4,4
+1,ALABAMA,109,Pike,Region 4,4
+1,ALABAMA,111,Randolph,Region 4,4
+1,ALABAMA,113,Russell,Region 4,4
+1,ALABAMA,115,St. Clair,Region 4,4
+1,ALABAMA,117,Shelby,Region 4,4
+1,ALABAMA,119,Sumter,Region 4,4
+1,ALABAMA,121,Talladega,Region 4,4
+1,ALABAMA,123,Tallapoosa,Region 4,4
+1,ALABAMA,125,Tuscaloosa,Region 4,4
+1,ALABAMA,127,Walker,Region 4,4
+1,ALABAMA,129,Washington,Region 4,4
+1,ALABAMA,131,Wilcox,Region 4,4
+1,ALABAMA,133,Winston,Region 4,4
+2,ALASKA,13,Aleutians East,Region 10,10
+2,ALASKA,16,Aleutians West,Region 10,10
+2,ALASKA,20,Anchorage,Region 10,10
+2,ALASKA,50,Bethel,Region 10,10
+2,ALASKA,60,Bristol Bay,Region 10,10
+2,ALASKA,68,Denali,Region 10,10
+2,ALASKA,70,Dillingham,Region 10,10
+2,ALASKA,90,Fairbanks North Star,Region 10,10
+2,ALASKA,100,Haines,Region 10,10
+2,ALASKA,105,Hoonah-Angoon,Region 10,10
+2,ALASKA,110,Juneau,Region 10,10
+2,ALASKA,122,Kenai Peninsula,Region 10,10
+2,ALASKA,130,Ketchikan Gateway,Region 10,10
+2,ALASKA,150,Kodiak Island,Region 10,10
+2,ALASKA,158,Kusilvak,Region 10,10
+2,ALASKA,164,Lake and Peninsula,Region 10,10
+2,ALASKA,170,Matanuska-Susitna,Region 10,10
+2,ALASKA,180,Nome,Region 10,10
+2,ALASKA,185,North Slope,Region 10,10
+2,ALASKA,188,Northwest Arctic,Region 10,10
+2,ALASKA,195,Petersburg,Region 10,10
+2,ALASKA,198,Prince of Wales-Hyder,Region 10,10
+2,ALASKA,220,Sitka,Region 10,10
+2,ALASKA,230,Skagway,Region 10,10
+2,ALASKA,240,Southeast Fairbanks,Region 10,10
+2,ALASKA,261,Valdez-Cordova,Region 10,10
+2,ALASKA,275,Wrangell,Region 10,10
+2,ALASKA,282,Yakutat,Region 10,10
+2,ALASKA,290,Yukon-Koyukuk,Region 10,10
+4,ARIZONA,1,Apache,Region 9,9
+4,ARIZONA,3,Cochise,Region 9,9
+4,ARIZONA,5,Coconino,Region 9,9
+4,ARIZONA,7,Gila,Region 9,9
+4,ARIZONA,9,Graham,Region 9,9
+4,ARIZONA,11,Greenlee,Region 9,9
+4,ARIZONA,12,La Paz,Region 9,9
+4,ARIZONA,13,Maricopa,Region 9,9
+4,ARIZONA,15,Mohave,Region 9,9
+4,ARIZONA,17,Navajo,Region 9,9
+4,ARIZONA,19,Pima,Region 9,9
+4,ARIZONA,21,Pinal,Region 9,9
+4,ARIZONA,23,Santa Cruz,Region 9,9
+4,ARIZONA,25,Yavapai,Region 9,9
+4,ARIZONA,27,Yuma,Region 9,9
+5,ARKANSAS,1,Arkansas,Region 6,6
+5,ARKANSAS,3,Ashley,Region 6,6
+5,ARKANSAS,5,Baxter,Region 6,6
+5,ARKANSAS,7,Benton,Region 6,6
+5,ARKANSAS,9,Boone,Region 6,6
+5,ARKANSAS,11,Bradley,Region 6,6
+5,ARKANSAS,13,Calhoun,Region 6,6
+5,ARKANSAS,15,Carroll,Region 6,6
+5,ARKANSAS,17,Chicot,Region 6,6
+5,ARKANSAS,19,Clark,Region 6,6
+5,ARKANSAS,21,Clay,Region 6,6
+5,ARKANSAS,23,Cleburne,Region 6,6
+5,ARKANSAS,25,Cleveland,Region 6,6
+5,ARKANSAS,27,Columbia,Region 6,6
+5,ARKANSAS,29,Conway,Region 6,6
+5,ARKANSAS,31,Craighead,Region 6,6
+5,ARKANSAS,33,Crawford,Region 6,6
+5,ARKANSAS,35,Crittenden,Region 6,6
+5,ARKANSAS,37,Cross,Region 6,6
+5,ARKANSAS,39,Dallas,Region 6,6
+5,ARKANSAS,41,Desha,Region 6,6
+5,ARKANSAS,43,Drew,Region 6,6
+5,ARKANSAS,45,Faulkner,Region 6,6
+5,ARKANSAS,47,Franklin,Region 6,6
+5,ARKANSAS,49,Fulton,Region 6,6
+5,ARKANSAS,51,Garland,Region 6,6
+5,ARKANSAS,53,Grant,Region 6,6
+5,ARKANSAS,55,Greene,Region 6,6
+5,ARKANSAS,57,Hempstead,Region 6,6
+5,ARKANSAS,59,Hot Spring,Region 6,6
+5,ARKANSAS,61,Howard,Region 6,6
+5,ARKANSAS,63,Independence,Region 6,6
+5,ARKANSAS,65,Izard,Region 6,6
+5,ARKANSAS,67,Jackson,Region 6,6
+5,ARKANSAS,69,Jefferson,Region 6,6
+5,ARKANSAS,71,Johnson,Region 6,6
+5,ARKANSAS,73,Lafayette,Region 6,6
+5,ARKANSAS,75,Lawrence,Region 6,6
+5,ARKANSAS,77,Lee,Region 6,6
+5,ARKANSAS,79,Lincoln,Region 6,6
+5,ARKANSAS,81,Little River,Region 6,6
+5,ARKANSAS,83,Logan,Region 6,6
+5,ARKANSAS,85,Lonoke,Region 6,6
+5,ARKANSAS,87,Madison,Region 6,6
+5,ARKANSAS,89,Marion,Region 6,6
+5,ARKANSAS,91,Miller,Region 6,6
+5,ARKANSAS,93,Mississippi,Region 6,6
+5,ARKANSAS,95,Monroe,Region 6,6
+5,ARKANSAS,97,Montgomery,Region 6,6
+5,ARKANSAS,99,Nevada,Region 6,6
+5,ARKANSAS,101,Newton,Region 6,6
+5,ARKANSAS,103,Ouachita,Region 6,6
+5,ARKANSAS,105,Perry,Region 6,6
+5,ARKANSAS,107,Phillips,Region 6,6
+5,ARKANSAS,109,Pike,Region 6,6
+5,ARKANSAS,111,Poinsett,Region 6,6
+5,ARKANSAS,113,Polk,Region 6,6
+5,ARKANSAS,115,Pope,Region 6,6
+5,ARKANSAS,117,Prairie,Region 6,6
+5,ARKANSAS,119,Pulaski,Region 6,6
+5,ARKANSAS,121,Randolph,Region 6,6
+5,ARKANSAS,123,St. Francis,Region 6,6
+5,ARKANSAS,125,Saline,Region 6,6
+5,ARKANSAS,127,Scott,Region 6,6
+5,ARKANSAS,129,Searcy,Region 6,6
+5,ARKANSAS,131,Sebastian,Region 6,6
+5,ARKANSAS,133,Sevier,Region 6,6
+5,ARKANSAS,135,Sharp,Region 6,6
+5,ARKANSAS,137,Stone,Region 6,6
+5,ARKANSAS,139,Union,Region 6,6
+5,ARKANSAS,141,Van Buren,Region 6,6
+5,ARKANSAS,143,Washington,Region 6,6
+5,ARKANSAS,145,White,Region 6,6
+5,ARKANSAS,147,Woodruff,Region 6,6
+5,ARKANSAS,149,Yell,Region 6,6
+6,CALIFORNIA,1,Alameda,Region 9,9
+6,CALIFORNIA,3,Alpine,Region 9,9
+6,CALIFORNIA,5,Amador,Region 9,9
+6,CALIFORNIA,7,Butte,Region 9,9
+6,CALIFORNIA,9,Calaveras,Region 9,9
+6,CALIFORNIA,11,Colusa,Region 9,9
+6,CALIFORNIA,13,Contra Costa,Region 9,9
+6,CALIFORNIA,15,Del Norte,Region 9,9
+6,CALIFORNIA,17,El Dorado,Region 9,9
+6,CALIFORNIA,19,Fresno,Region 9,9
+6,CALIFORNIA,21,Glenn,Region 9,9
+6,CALIFORNIA,23,Humboldt,Region 9,9
+6,CALIFORNIA,25,Imperial,Region 9,9
+6,CALIFORNIA,27,Inyo,Region 9,9
+6,CALIFORNIA,29,Kern,Region 9,9
+6,CALIFORNIA,31,Kings,Region 9,9
+6,CALIFORNIA,33,Lake,Region 9,9
+6,CALIFORNIA,35,Lassen,Region 9,9
+6,CALIFORNIA,37,Los Angeles,Region 9,9
+6,CALIFORNIA,39,Madera,Region 9,9
+6,CALIFORNIA,41,Marin,Region 9,9
+6,CALIFORNIA,43,Mariposa,Region 9,9
+6,CALIFORNIA,45,Mendocino,Region 9,9
+6,CALIFORNIA,47,Merced,Region 9,9
+6,CALIFORNIA,49,Modoc,Region 9,9
+6,CALIFORNIA,51,Mono,Region 9,9
+6,CALIFORNIA,53,Monterey,Region 9,9
+6,CALIFORNIA,55,Napa,Region 9,9
+6,CALIFORNIA,57,Nevada,Region 9,9
+6,CALIFORNIA,59,Orange,Region 9,9
+6,CALIFORNIA,61,Placer,Region 9,9
+6,CALIFORNIA,63,Plumas,Region 9,9
+6,CALIFORNIA,65,Riverside,Region 9,9
+6,CALIFORNIA,67,Sacramento,Region 9,9
+6,CALIFORNIA,69,San Benito,Region 9,9
+6,CALIFORNIA,71,San Bernardino,Region 9,9
+6,CALIFORNIA,73,San Diego,Region 9,9
+6,CALIFORNIA,75,San Francisco,Region 9,9
+6,CALIFORNIA,77,San Joaquin,Region 9,9
+6,CALIFORNIA,79,San Luis Obispo,Region 9,9
+6,CALIFORNIA,81,San Mateo,Region 9,9
+6,CALIFORNIA,83,Santa Barbara,Region 9,9
+6,CALIFORNIA,85,Santa Clara,Region 9,9
+6,CALIFORNIA,87,Santa Cruz,Region 9,9
+6,CALIFORNIA,89,Shasta,Region 9,9
+6,CALIFORNIA,91,Sierra,Region 9,9
+6,CALIFORNIA,93,Siskiyou,Region 9,9
+6,CALIFORNIA,95,Solano,Region 9,9
+6,CALIFORNIA,97,Sonoma,Region 9,9
+6,CALIFORNIA,99,Stanislaus,Region 9,9
+6,CALIFORNIA,101,Sutter,Region 9,9
+6,CALIFORNIA,103,Tehama,Region 9,9
+6,CALIFORNIA,105,Trinity,Region 9,9
+6,CALIFORNIA,107,Tulare,Region 9,9
+6,CALIFORNIA,109,Tuolumne,Region 9,9
+6,CALIFORNIA,111,Ventura,Region 9,9
+6,CALIFORNIA,113,Yolo,Region 9,9
+6,CALIFORNIA,115,Yuba,Region 9,9
+8,COLORADO,1,Adams,Region 8,8
+8,COLORADO,3,Alamosa,Region 8,8
+8,COLORADO,5,Arapahoe,Region 8,8
+8,COLORADO,7,Archuleta,Region 8,8
+8,COLORADO,9,Baca,Region 8,8
+8,COLORADO,11,Bent,Region 8,8
+8,COLORADO,13,Boulder,Region 8,8
+8,COLORADO,14,Broomfield,Region 8,8
+8,COLORADO,15,Chaffee,Region 8,8
+8,COLORADO,17,Cheyenne,Region 8,8
+8,COLORADO,19,Clear Creek,Region 8,8
+8,COLORADO,21,Conejos,Region 8,8
+8,COLORADO,23,Costilla,Region 8,8
+8,COLORADO,25,Crowley,Region 8,8
+8,COLORADO,27,Custer,Region 8,8
+8,COLORADO,29,Delta,Region 8,8
+8,COLORADO,31,Denver,Region 8,8
+8,COLORADO,33,Dolores,Region 8,8
+8,COLORADO,35,Douglas,Region 8,8
+8,COLORADO,37,Eagle,Region 8,8
+8,COLORADO,39,Elbert,Region 8,8
+8,COLORADO,41,El Paso,Region 8,8
+8,COLORADO,43,Fremont,Region 8,8
+8,COLORADO,45,Garfield,Region 8,8
+8,COLORADO,47,Gilpin,Region 8,8
+8,COLORADO,49,Grand,Region 8,8
+8,COLORADO,51,Gunnison,Region 8,8
+8,COLORADO,53,Hinsdale,Region 8,8
+8,COLORADO,55,Huerfano,Region 8,8
+8,COLORADO,57,Jackson,Region 8,8
+8,COLORADO,59,Jefferson,Region 8,8
+8,COLORADO,61,Kiowa,Region 8,8
+8,COLORADO,63,Kit Carson,Region 8,8
+8,COLORADO,65,Lake,Region 8,8
+8,COLORADO,67,La Plata,Region 8,8
+8,COLORADO,69,Larimer,Region 8,8
+8,COLORADO,71,Las Animas,Region 8,8
+8,COLORADO,73,Lincoln,Region 8,8
+8,COLORADO,75,Logan,Region 8,8
+8,COLORADO,77,Mesa,Region 8,8
+8,COLORADO,79,Mineral,Region 8,8
+8,COLORADO,81,Moffat,Region 8,8
+8,COLORADO,83,Montezuma,Region 8,8
+8,COLORADO,85,Montrose,Region 8,8
+8,COLORADO,87,Morgan,Region 8,8
+8,COLORADO,89,Otero,Region 8,8
+8,COLORADO,91,Ouray,Region 8,8
+8,COLORADO,93,Park,Region 8,8
+8,COLORADO,95,Phillips,Region 8,8
+8,COLORADO,97,Pitkin,Region 8,8
+8,COLORADO,99,Prowers,Region 8,8
+8,COLORADO,101,Pueblo,Region 8,8
+8,COLORADO,103,Rio Blanco,Region 8,8
+8,COLORADO,105,Rio Grande,Region 8,8
+8,COLORADO,107,Routt,Region 8,8
+8,COLORADO,109,Saguache,Region 8,8
+8,COLORADO,111,San Juan,Region 8,8
+8,COLORADO,113,San Miguel,Region 8,8
+8,COLORADO,115,Sedgwick,Region 8,8
+8,COLORADO,117,Summit,Region 8,8
+8,COLORADO,119,Teller,Region 8,8
+8,COLORADO,121,Washington,Region 8,8
+8,COLORADO,123,Weld,Region 8,8
+8,COLORADO,125,Yuma,Region 8,8
+9,CONNECTICUT,1,Fairfield,Region 1,1
+9,CONNECTICUT,3,Hartford,Region 1,1
+9,CONNECTICUT,5,Litchfield,Region 1,1
+9,CONNECTICUT,7,Middlesex,Region 1,1
+9,CONNECTICUT,9,New Haven,Region 1,1
+9,CONNECTICUT,11,New London,Region 1,1
+9,CONNECTICUT,13,Tolland,Region 1,1
+9,CONNECTICUT,15,Windham,Region 1,1
+10,DELAWARE,1,Kent,Region 3,3
+10,DELAWARE,3,New Castle,Region 3,3
+10,DELAWARE,5,Sussex,Region 3,3
+11,DISTRICT OF COLUMBIA,1,District of Columbia,Region 3,3
+12,FLORIDA,1,Alachua,Region 4,4
+12,FLORIDA,3,Baker,Region 4,4
+12,FLORIDA,5,Bay,Region 4,4
+12,FLORIDA,7,Bradford,Region 4,4
+12,FLORIDA,9,Brevard,Region 4,4
+12,FLORIDA,11,Broward,Region 4,4
+12,FLORIDA,13,Calhoun,Region 4,4
+12,FLORIDA,15,Charlotte,Region 4,4
+12,FLORIDA,17,Citrus,Region 4,4
+12,FLORIDA,19,Clay,Region 4,4
+12,FLORIDA,21,Collier,Region 4,4
+12,FLORIDA,27,DeSoto,Region 4,4
+12,FLORIDA,29,Dixie,Region 4,4
+12,FLORIDA,31,Duval,Region 4,4
+12,FLORIDA,33,Escambia,Region 4,4
+12,FLORIDA,35,Flagler,Region 4,4
+12,FLORIDA,37,Franklin,Region 4,4
+12,FLORIDA,39,Gadsden,Region 4,4
+12,FLORIDA,41,Gilchrist,Region 4,4
+12,FLORIDA,43,Glades,Region 4,4
+12,FLORIDA,45,Gulf,Region 4,4
+12,FLORIDA,47,Hamilton,Region 4,4
+12,FLORIDA,49,Hardee,Region 4,4
+12,FLORIDA,51,Hendry,Region 4,4
+12,FLORIDA,53,Hernando,Region 4,4
+12,FLORIDA,55,Highlands,Region 4,4
+12,FLORIDA,57,Hillsborough,Region 4,4
+12,FLORIDA,59,Holmes,Region 4,4
+12,FLORIDA,61,Indian River,Region 4,4
+12,FLORIDA,63,Jackson,Region 4,4
+12,FLORIDA,65,Jefferson,Region 4,4
+12,FLORIDA,67,Lafayette,Region 4,4
+12,FLORIDA,69,Lake,Region 4,4
+12,FLORIDA,71,Lee,Region 4,4
+12,FLORIDA,73,Leon,Region 4,4
+12,FLORIDA,75,Levy,Region 4,4
+12,FLORIDA,77,Liberty,Region 4,4
+12,FLORIDA,79,Madison,Region 4,4
+12,FLORIDA,81,Manatee,Region 4,4
+12,FLORIDA,83,Marion,Region 4,4
+12,FLORIDA,85,Martin,Region 4,4
+12,FLORIDA,86,Miami-Dade,Region 4,4
+12,FLORIDA,87,Monroe,Region 4,4
+12,FLORIDA,89,Nassau,Region 4,4
+12,FLORIDA,91,Okaloosa,Region 4,4
+12,FLORIDA,93,Okeechobee,Region 4,4
+12,FLORIDA,95,Orange,Region 4,4
+12,FLORIDA,97,Osceola,Region 4,4
+12,FLORIDA,99,Palm Beach,Region 4,4
+12,FLORIDA,101,Pasco,Region 4,4
+12,FLORIDA,103,Pinellas,Region 4,4
+12,FLORIDA,105,Polk,Region 4,4
+12,FLORIDA,107,Putnam,Region 4,4
+12,FLORIDA,109,St. Johns,Region 4,4
+12,FLORIDA,111,St. Lucie,Region 4,4
+12,FLORIDA,113,Santa Rosa,Region 4,4
+12,FLORIDA,115,Sarasota,Region 4,4
+12,FLORIDA,117,Seminole,Region 4,4
+12,FLORIDA,119,Sumter,Region 4,4
+12,FLORIDA,121,Suwannee,Region 4,4
+12,FLORIDA,123,Taylor,Region 4,4
+12,FLORIDA,125,Union,Region 4,4
+12,FLORIDA,127,Volusia,Region 4,4
+12,FLORIDA,129,Wakulla,Region 4,4
+12,FLORIDA,131,Walton,Region 4,4
+12,FLORIDA,133,Washington,Region 4,4
+13,GEORGIA,1,Appling,Region 4,4
+13,GEORGIA,3,Atkinson,Region 4,4
+13,GEORGIA,5,Bacon,Region 4,4
+13,GEORGIA,7,Baker,Region 4,4
+13,GEORGIA,9,Baldwin,Region 4,4
+13,GEORGIA,11,Banks,Region 4,4
+13,GEORGIA,13,Barrow,Region 4,4
+13,GEORGIA,15,Bartow,Region 4,4
+13,GEORGIA,17,Ben Hill,Region 4,4
+13,GEORGIA,19,Berrien,Region 4,4
+13,GEORGIA,21,Bibb,Region 4,4
+13,GEORGIA,23,Bleckley,Region 4,4
+13,GEORGIA,25,Brantley,Region 4,4
+13,GEORGIA,27,Brooks,Region 4,4
+13,GEORGIA,29,Bryan,Region 4,4
+13,GEORGIA,31,Bulloch,Region 4,4
+13,GEORGIA,33,Burke,Region 4,4
+13,GEORGIA,35,Butts,Region 4,4
+13,GEORGIA,37,Calhoun,Region 4,4
+13,GEORGIA,39,Camden,Region 4,4
+13,GEORGIA,43,Candler,Region 4,4
+13,GEORGIA,45,Carroll,Region 4,4
+13,GEORGIA,47,Catoosa,Region 4,4
+13,GEORGIA,49,Charlton,Region 4,4
+13,GEORGIA,51,Chatham,Region 4,4
+13,GEORGIA,53,Chattahoochee,Region 4,4
+13,GEORGIA,55,Chattooga,Region 4,4
+13,GEORGIA,57,Cherokee,Region 4,4
+13,GEORGIA,59,Clarke,Region 4,4
+13,GEORGIA,61,Clay,Region 4,4
+13,GEORGIA,63,Clayton,Region 4,4
+13,GEORGIA,65,Clinch,Region 4,4
+13,GEORGIA,67,Cobb,Region 4,4
+13,GEORGIA,69,Coffee,Region 4,4
+13,GEORGIA,71,Colquitt,Region 4,4
+13,GEORGIA,73,Columbia,Region 4,4
+13,GEORGIA,75,Cook,Region 4,4
+13,GEORGIA,77,Coweta,Region 4,4
+13,GEORGIA,79,Crawford,Region 4,4
+13,GEORGIA,81,Crisp,Region 4,4
+13,GEORGIA,83,Dade,Region 4,4
+13,GEORGIA,85,Dawson,Region 4,4
+13,GEORGIA,87,Decatur,Region 4,4
+13,GEORGIA,89,DeKalb,Region 4,4
+13,GEORGIA,91,Dodge,Region 4,4
+13,GEORGIA,93,Dooly,Region 4,4
+13,GEORGIA,95,Dougherty,Region 4,4
+13,GEORGIA,97,Douglas,Region 4,4
+13,GEORGIA,99,Early,Region 4,4
+13,GEORGIA,101,Echols,Region 4,4
+13,GEORGIA,103,Effingham,Region 4,4
+13,GEORGIA,105,Elbert,Region 4,4
+13,GEORGIA,107,Emanuel,Region 4,4
+13,GEORGIA,109,Evans,Region 4,4
+13,GEORGIA,111,Fannin,Region 4,4
+13,GEORGIA,113,Fayette,Region 4,4
+13,GEORGIA,115,Floyd,Region 4,4
+13,GEORGIA,117,Forsyth,Region 4,4
+13,GEORGIA,119,Franklin,Region 4,4
+13,GEORGIA,121,Fulton,Region 4,4
+13,GEORGIA,123,Gilmer,Region 4,4
+13,GEORGIA,125,Glascock,Region 4,4
+13,GEORGIA,127,Glynn,Region 4,4
+13,GEORGIA,129,Gordon,Region 4,4
+13,GEORGIA,131,Grady,Region 4,4
+13,GEORGIA,133,Greene,Region 4,4
+13,GEORGIA,135,Gwinnett,Region 4,4
+13,GEORGIA,137,Habersham,Region 4,4
+13,GEORGIA,139,Hall,Region 4,4
+13,GEORGIA,141,Hancock,Region 4,4
+13,GEORGIA,143,Haralson,Region 4,4
+13,GEORGIA,145,Harris,Region 4,4
+13,GEORGIA,147,Hart,Region 4,4
+13,GEORGIA,149,Heard,Region 4,4
+13,GEORGIA,151,Henry,Region 4,4
+13,GEORGIA,153,Houston,Region 4,4
+13,GEORGIA,155,Irwin,Region 4,4
+13,GEORGIA,157,Jackson,Region 4,4
+13,GEORGIA,159,Jasper,Region 4,4
+13,GEORGIA,161,Jeff Davis,Region 4,4
+13,GEORGIA,163,Jefferson,Region 4,4
+13,GEORGIA,165,Jenkins,Region 4,4
+13,GEORGIA,167,Johnson,Region 4,4
+13,GEORGIA,169,Jones,Region 4,4
+13,GEORGIA,171,Lamar,Region 4,4
+13,GEORGIA,173,Lanier,Region 4,4
+13,GEORGIA,175,Laurens,Region 4,4
+13,GEORGIA,177,Lee,Region 4,4
+13,GEORGIA,179,Liberty,Region 4,4
+13,GEORGIA,181,Lincoln,Region 4,4
+13,GEORGIA,183,Long,Region 4,4
+13,GEORGIA,185,Lowndes,Region 4,4
+13,GEORGIA,187,Lumpkin,Region 4,4
+13,GEORGIA,189,McDuffie,Region 4,4
+13,GEORGIA,191,McIntosh,Region 4,4
+13,GEORGIA,193,Macon,Region 4,4
+13,GEORGIA,195,Madison,Region 4,4
+13,GEORGIA,197,Marion,Region 4,4
+13,GEORGIA,199,Meriwether,Region 4,4
+13,GEORGIA,201,Miller,Region 4,4
+13,GEORGIA,205,Mitchell,Region 4,4
+13,GEORGIA,207,Monroe,Region 4,4
+13,GEORGIA,209,Montgomery,Region 4,4
+13,GEORGIA,211,Morgan,Region 4,4
+13,GEORGIA,213,Murray,Region 4,4
+13,GEORGIA,215,Muscogee,Region 4,4
+13,GEORGIA,217,Newton,Region 4,4
+13,GEORGIA,219,Oconee,Region 4,4
+13,GEORGIA,221,Oglethorpe,Region 4,4
+13,GEORGIA,223,Paulding,Region 4,4
+13,GEORGIA,225,Peach,Region 4,4
+13,GEORGIA,227,Pickens,Region 4,4
+13,GEORGIA,229,Pierce,Region 4,4
+13,GEORGIA,231,Pike,Region 4,4
+13,GEORGIA,233,Polk,Region 4,4
+13,GEORGIA,235,Pulaski,Region 4,4
+13,GEORGIA,237,Putnam,Region 4,4
+13,GEORGIA,239,Quitman,Region 4,4
+13,GEORGIA,241,Rabun,Region 4,4
+13,GEORGIA,243,Randolph,Region 4,4
+13,GEORGIA,245,Richmond,Region 4,4
+13,GEORGIA,247,Rockdale,Region 4,4
+13,GEORGIA,249,Schley,Region 4,4
+13,GEORGIA,251,Screven,Region 4,4
+13,GEORGIA,253,Seminole,Region 4,4
+13,GEORGIA,255,Spalding,Region 4,4
+13,GEORGIA,257,Stephens,Region 4,4
+13,GEORGIA,259,Stewart,Region 4,4
+13,GEORGIA,261,Sumter,Region 4,4
+13,GEORGIA,263,Talbot,Region 4,4
+13,GEORGIA,265,Taliaferro,Region 4,4
+13,GEORGIA,267,Tattnall,Region 4,4
+13,GEORGIA,269,Taylor,Region 4,4
+13,GEORGIA,271,Telfair,Region 4,4
+13,GEORGIA,273,Terrell,Region 4,4
+13,GEORGIA,275,Thomas,Region 4,4
+13,GEORGIA,277,Tift,Region 4,4
+13,GEORGIA,279,Toombs,Region 4,4
+13,GEORGIA,281,Towns,Region 4,4
+13,GEORGIA,283,Treutlen,Region 4,4
+13,GEORGIA,285,Troup,Region 4,4
+13,GEORGIA,287,Turner,Region 4,4
+13,GEORGIA,289,Twiggs,Region 4,4
+13,GEORGIA,291,Union,Region 4,4
+13,GEORGIA,293,Upson,Region 4,4
+13,GEORGIA,295,Walker,Region 4,4
+13,GEORGIA,297,Walton,Region 4,4
+13,GEORGIA,299,Ware,Region 4,4
+13,GEORGIA,301,Warren,Region 4,4
+13,GEORGIA,303,Washington,Region 4,4
+13,GEORGIA,305,Wayne,Region 4,4
+13,GEORGIA,307,Webster,Region 4,4
+13,GEORGIA,309,Wheeler,Region 4,4
+13,GEORGIA,311,White,Region 4,4
+13,GEORGIA,313,Whitfield,Region 4,4
+13,GEORGIA,315,Wilcox,Region 4,4
+13,GEORGIA,317,Wilkes,Region 4,4
+13,GEORGIA,319,Wilkinson,Region 4,4
+13,GEORGIA,321,Worth,Region 4,4
+15,HAWAII,1,Hawaii,Region 9,9
+15,HAWAII,3,Honolulu,Region 9,9
+15,HAWAII,5,Kalawao,Region 9,9
+15,HAWAII,7,Kauai,Region 9,9
+15,HAWAII,9,Maui,Region 9,9
+16,IDAHO,1,Ada,Region 10,10
+16,IDAHO,3,Adams,Region 10,10
+16,IDAHO,5,Bannock,Region 10,10
+16,IDAHO,7,Bear Lake,Region 10,10
+16,IDAHO,9,Benewah,Region 10,10
+16,IDAHO,11,Bingham,Region 10,10
+16,IDAHO,13,Blaine,Region 10,10
+16,IDAHO,15,Boise,Region 10,10
+16,IDAHO,17,Bonner,Region 10,10
+16,IDAHO,19,Bonneville,Region 10,10
+16,IDAHO,21,Boundary,Region 10,10
+16,IDAHO,23,Butte,Region 10,10
+16,IDAHO,25,Camas,Region 10,10
+16,IDAHO,27,Canyon,Region 10,10
+16,IDAHO,29,Caribou,Region 10,10
+16,IDAHO,31,Cassia,Region 10,10
+16,IDAHO,33,Clark,Region 10,10
+16,IDAHO,35,Clearwater,Region 10,10
+16,IDAHO,37,Custer,Region 10,10
+16,IDAHO,39,Elmore,Region 10,10
+16,IDAHO,41,Franklin,Region 10,10
+16,IDAHO,43,Fremont,Region 10,10
+16,IDAHO,45,Gem,Region 10,10
+16,IDAHO,47,Gooding,Region 10,10
+16,IDAHO,49,Idaho,Region 10,10
+16,IDAHO,51,Jefferson,Region 10,10
+16,IDAHO,53,Jerome,Region 10,10
+16,IDAHO,55,Kootenai,Region 10,10
+16,IDAHO,57,Latah,Region 10,10
+16,IDAHO,59,Lemhi,Region 10,10
+16,IDAHO,61,Lewis,Region 10,10
+16,IDAHO,63,Lincoln,Region 10,10
+16,IDAHO,65,Madison,Region 10,10
+16,IDAHO,67,Minidoka,Region 10,10
+16,IDAHO,69,Nez Perce,Region 10,10
+16,IDAHO,71,Oneida,Region 10,10
+16,IDAHO,73,Owyhee,Region 10,10
+16,IDAHO,75,Payette,Region 10,10
+16,IDAHO,77,Power,Region 10,10
+16,IDAHO,79,Shoshone,Region 10,10
+16,IDAHO,81,Teton,Region 10,10
+16,IDAHO,83,Twin Falls,Region 10,10
+16,IDAHO,85,Valley,Region 10,10
+16,IDAHO,87,Washington,Region 10,10
+17,ILLINOIS,1,Adams,Region 5,5
+17,ILLINOIS,3,Alexander,Region 5,5
+17,ILLINOIS,5,Bond,Region 5,5
+17,ILLINOIS,7,Boone,Region 5,5
+17,ILLINOIS,9,Brown,Region 5,5
+17,ILLINOIS,11,Bureau,Region 5,5
+17,ILLINOIS,13,Calhoun,Region 5,5
+17,ILLINOIS,15,Carroll,Region 5,5
+17,ILLINOIS,17,Cass,Region 5,5
+17,ILLINOIS,19,Champaign,Region 5,5
+17,ILLINOIS,21,Christian,Region 5,5
+17,ILLINOIS,23,Clark,Region 5,5
+17,ILLINOIS,25,Clay,Region 5,5
+17,ILLINOIS,27,Clinton,Region 5,5
+17,ILLINOIS,29,Coles,Region 5,5
+17,ILLINOIS,31,Cook,Region 5,5
+17,ILLINOIS,33,Crawford,Region 5,5
+17,ILLINOIS,35,Cumberland,Region 5,5
+17,ILLINOIS,37,DeKalb,Region 5,5
+17,ILLINOIS,39,De Witt,Region 5,5
+17,ILLINOIS,41,Douglas,Region 5,5
+17,ILLINOIS,43,DuPage,Region 5,5
+17,ILLINOIS,45,Edgar,Region 5,5
+17,ILLINOIS,47,Edwards,Region 5,5
+17,ILLINOIS,49,Effingham,Region 5,5
+17,ILLINOIS,51,Fayette,Region 5,5
+17,ILLINOIS,53,Ford,Region 5,5
+17,ILLINOIS,55,Franklin,Region 5,5
+17,ILLINOIS,57,Fulton,Region 5,5
+17,ILLINOIS,59,Gallatin,Region 5,5
+17,ILLINOIS,61,Greene,Region 5,5
+17,ILLINOIS,63,Grundy,Region 5,5
+17,ILLINOIS,65,Hamilton,Region 5,5
+17,ILLINOIS,67,Hancock,Region 5,5
+17,ILLINOIS,69,Hardin,Region 5,5
+17,ILLINOIS,71,Henderson,Region 5,5
+17,ILLINOIS,73,Henry,Region 5,5
+17,ILLINOIS,75,Iroquois,Region 5,5
+17,ILLINOIS,77,Jackson,Region 5,5
+17,ILLINOIS,79,Jasper,Region 5,5
+17,ILLINOIS,81,Jefferson,Region 5,5
+17,ILLINOIS,83,Jersey,Region 5,5
+17,ILLINOIS,85,Jo Daviess,Region 5,5
+17,ILLINOIS,87,Johnson,Region 5,5
+17,ILLINOIS,89,Kane,Region 5,5
+17,ILLINOIS,91,Kankakee,Region 5,5
+17,ILLINOIS,93,Kendall,Region 5,5
+17,ILLINOIS,95,Knox,Region 5,5
+17,ILLINOIS,97,Lake,Region 5,5
+17,ILLINOIS,99,LaSalle,Region 5,5
+17,ILLINOIS,101,Lawrence,Region 5,5
+17,ILLINOIS,103,Lee,Region 5,5
+17,ILLINOIS,105,Livingston,Region 5,5
+17,ILLINOIS,107,Logan,Region 5,5
+17,ILLINOIS,109,McDonough,Region 5,5
+17,ILLINOIS,111,McHenry,Region 5,5
+17,ILLINOIS,113,McLean,Region 5,5
+17,ILLINOIS,115,Macon,Region 5,5
+17,ILLINOIS,117,Macoupin,Region 5,5
+17,ILLINOIS,119,Madison,Region 5,5
+17,ILLINOIS,121,Marion,Region 5,5
+17,ILLINOIS,123,Marshall,Region 5,5
+17,ILLINOIS,125,Mason,Region 5,5
+17,ILLINOIS,127,Massac,Region 5,5
+17,ILLINOIS,129,Menard,Region 5,5
+17,ILLINOIS,131,Mercer,Region 5,5
+17,ILLINOIS,133,Monroe,Region 5,5
+17,ILLINOIS,135,Montgomery,Region 5,5
+17,ILLINOIS,137,Morgan,Region 5,5
+17,ILLINOIS,139,Moultrie,Region 5,5
+17,ILLINOIS,141,Ogle,Region 5,5
+17,ILLINOIS,143,Peoria,Region 5,5
+17,ILLINOIS,145,Perry,Region 5,5
+17,ILLINOIS,147,Piatt,Region 5,5
+17,ILLINOIS,149,Pike,Region 5,5
+17,ILLINOIS,151,Pope,Region 5,5
+17,ILLINOIS,153,Pulaski,Region 5,5
+17,ILLINOIS,155,Putnam,Region 5,5
+17,ILLINOIS,157,Randolph,Region 5,5
+17,ILLINOIS,159,Richland,Region 5,5
+17,ILLINOIS,161,Rock Island,Region 5,5
+17,ILLINOIS,163,St. Clair,Region 5,5
+17,ILLINOIS,165,Saline,Region 5,5
+17,ILLINOIS,167,Sangamon,Region 5,5
+17,ILLINOIS,169,Schuyler,Region 5,5
+17,ILLINOIS,171,Scott,Region 5,5
+17,ILLINOIS,173,Shelby,Region 5,5
+17,ILLINOIS,175,Stark,Region 5,5
+17,ILLINOIS,177,Stephenson,Region 5,5
+17,ILLINOIS,179,Tazewell,Region 5,5
+17,ILLINOIS,181,Union,Region 5,5
+17,ILLINOIS,183,Vermilion,Region 5,5
+17,ILLINOIS,185,Wabash,Region 5,5
+17,ILLINOIS,187,Warren,Region 5,5
+17,ILLINOIS,189,Washington,Region 5,5
+17,ILLINOIS,191,Wayne,Region 5,5
+17,ILLINOIS,193,White,Region 5,5
+17,ILLINOIS,195,Whiteside,Region 5,5
+17,ILLINOIS,197,Will,Region 5,5
+17,ILLINOIS,199,Williamson,Region 5,5
+17,ILLINOIS,201,Winnebago,Region 5,5
+17,ILLINOIS,203,Woodford,Region 5,5
+18,INDIANA,1,Adams,Region 5,5
+18,INDIANA,3,Allen,Region 5,5
+18,INDIANA,5,Bartholomew,Region 5,5
+18,INDIANA,7,Benton,Region 5,5
+18,INDIANA,9,Blackford,Region 5,5
+18,INDIANA,11,Boone,Region 5,5
+18,INDIANA,13,Brown,Region 5,5
+18,INDIANA,15,Carroll,Region 5,5
+18,INDIANA,17,Cass,Region 5,5
+18,INDIANA,19,Clark,Region 5,5
+18,INDIANA,21,Clay,Region 5,5
+18,INDIANA,23,Clinton,Region 5,5
+18,INDIANA,25,Crawford,Region 5,5
+18,INDIANA,27,Daviess,Region 5,5
+18,INDIANA,29,Dearborn,Region 5,5
+18,INDIANA,31,Decatur,Region 5,5
+18,INDIANA,33,DeKalb,Region 5,5
+18,INDIANA,35,Delaware,Region 5,5
+18,INDIANA,37,Dubois,Region 5,5
+18,INDIANA,39,Elkhart,Region 5,5
+18,INDIANA,41,Fayette,Region 5,5
+18,INDIANA,43,Floyd,Region 5,5
+18,INDIANA,45,Fountain,Region 5,5
+18,INDIANA,47,Franklin,Region 5,5
+18,INDIANA,49,Fulton,Region 5,5
+18,INDIANA,51,Gibson,Region 5,5
+18,INDIANA,53,Grant,Region 5,5
+18,INDIANA,55,Greene,Region 5,5
+18,INDIANA,57,Hamilton,Region 5,5
+18,INDIANA,59,Hancock,Region 5,5
+18,INDIANA,61,Harrison,Region 5,5
+18,INDIANA,63,Hendricks,Region 5,5
+18,INDIANA,65,Henry,Region 5,5
+18,INDIANA,67,Howard,Region 5,5
+18,INDIANA,69,Huntington,Region 5,5
+18,INDIANA,71,Jackson,Region 5,5
+18,INDIANA,73,Jasper,Region 5,5
+18,INDIANA,75,Jay,Region 5,5
+18,INDIANA,77,Jefferson,Region 5,5
+18,INDIANA,79,Jennings,Region 5,5
+18,INDIANA,81,Johnson,Region 5,5
+18,INDIANA,83,Knox,Region 5,5
+18,INDIANA,85,Kosciusko,Region 5,5
+18,INDIANA,87,LaGrange,Region 5,5
+18,INDIANA,89,Lake,Region 5,5
+18,INDIANA,91,LaPorte,Region 5,5
+18,INDIANA,93,Lawrence,Region 5,5
+18,INDIANA,95,Madison,Region 5,5
+18,INDIANA,97,Marion,Region 5,5
+18,INDIANA,99,Marshall,Region 5,5
+18,INDIANA,101,Martin,Region 5,5
+18,INDIANA,103,Miami,Region 5,5
+18,INDIANA,105,Monroe,Region 5,5
+18,INDIANA,107,Montgomery,Region 5,5
+18,INDIANA,109,Morgan,Region 5,5
+18,INDIANA,111,Newton,Region 5,5
+18,INDIANA,113,Noble,Region 5,5
+18,INDIANA,115,Ohio,Region 5,5
+18,INDIANA,117,Orange,Region 5,5
+18,INDIANA,119,Owen,Region 5,5
+18,INDIANA,121,Parke,Region 5,5
+18,INDIANA,123,Perry,Region 5,5
+18,INDIANA,125,Pike,Region 5,5
+18,INDIANA,127,Porter,Region 5,5
+18,INDIANA,129,Posey,Region 5,5
+18,INDIANA,131,Pulaski,Region 5,5
+18,INDIANA,133,Putnam,Region 5,5
+18,INDIANA,135,Randolph,Region 5,5
+18,INDIANA,137,Ripley,Region 5,5
+18,INDIANA,139,Rush,Region 5,5
+18,INDIANA,141,St. Joseph,Region 5,5
+18,INDIANA,143,Scott,Region 5,5
+18,INDIANA,145,Shelby,Region 5,5
+18,INDIANA,147,Spencer,Region 5,5
+18,INDIANA,149,Starke,Region 5,5
+18,INDIANA,151,Steuben,Region 5,5
+18,INDIANA,153,Sullivan,Region 5,5
+18,INDIANA,155,Switzerland,Region 5,5
+18,INDIANA,157,Tippecanoe,Region 5,5
+18,INDIANA,159,Tipton,Region 5,5
+18,INDIANA,161,Union,Region 5,5
+18,INDIANA,163,Vanderburgh,Region 5,5
+18,INDIANA,165,Vermillion,Region 5,5
+18,INDIANA,167,Vigo,Region 5,5
+18,INDIANA,169,Wabash,Region 5,5
+18,INDIANA,171,Warren,Region 5,5
+18,INDIANA,173,Warrick,Region 5,5
+18,INDIANA,175,Washington,Region 5,5
+18,INDIANA,177,Wayne,Region 5,5
+18,INDIANA,179,Wells,Region 5,5
+18,INDIANA,181,White,Region 5,5
+18,INDIANA,183,Whitley,Region 5,5
+19,IOWA,1,Adair,Region 7,7
+19,IOWA,3,Adams,Region 7,7
+19,IOWA,5,Allamakee,Region 7,7
+19,IOWA,7,Appanoose,Region 7,7
+19,IOWA,9,Audubon,Region 7,7
+19,IOWA,11,Benton,Region 7,7
+19,IOWA,13,Black Hawk,Region 7,7
+19,IOWA,15,Boone,Region 7,7
+19,IOWA,17,Bremer,Region 7,7
+19,IOWA,19,Buchanan,Region 7,7
+19,IOWA,21,Buena Vista,Region 7,7
+19,IOWA,23,Butler,Region 7,7
+19,IOWA,25,Calhoun,Region 7,7
+19,IOWA,27,Carroll,Region 7,7
+19,IOWA,29,Cass,Region 7,7
+19,IOWA,31,Cedar,Region 7,7
+19,IOWA,33,Cerro Gordo,Region 7,7
+19,IOWA,35,Cherokee,Region 7,7
+19,IOWA,37,Chickasaw,Region 7,7
+19,IOWA,39,Clarke,Region 7,7
+19,IOWA,41,Clay,Region 7,7
+19,IOWA,43,Clayton,Region 7,7
+19,IOWA,45,Clinton,Region 7,7
+19,IOWA,47,Crawford,Region 7,7
+19,IOWA,49,Dallas,Region 7,7
+19,IOWA,51,Davis,Region 7,7
+19,IOWA,53,Decatur,Region 7,7
+19,IOWA,55,Delaware,Region 7,7
+19,IOWA,57,Des Moines,Region 7,7
+19,IOWA,59,Dickinson,Region 7,7
+19,IOWA,61,Dubuque,Region 7,7
+19,IOWA,63,Emmet,Region 7,7
+19,IOWA,65,Fayette,Region 7,7
+19,IOWA,67,Floyd,Region 7,7
+19,IOWA,69,Franklin,Region 7,7
+19,IOWA,71,Fremont,Region 7,7
+19,IOWA,73,Greene,Region 7,7
+19,IOWA,75,Grundy,Region 7,7
+19,IOWA,77,Guthrie,Region 7,7
+19,IOWA,79,Hamilton,Region 7,7
+19,IOWA,81,Hancock,Region 7,7
+19,IOWA,83,Hardin,Region 7,7
+19,IOWA,85,Harrison,Region 7,7
+19,IOWA,87,Henry,Region 7,7
+19,IOWA,89,Howard,Region 7,7
+19,IOWA,91,Humboldt,Region 7,7
+19,IOWA,93,Ida,Region 7,7
+19,IOWA,95,Iowa,Region 7,7
+19,IOWA,97,Jackson,Region 7,7
+19,IOWA,99,Jasper,Region 7,7
+19,IOWA,101,Jefferson,Region 7,7
+19,IOWA,103,Johnson,Region 7,7
+19,IOWA,105,Jones,Region 7,7
+19,IOWA,107,Keokuk,Region 7,7
+19,IOWA,109,Kossuth,Region 7,7
+19,IOWA,111,Lee,Region 7,7
+19,IOWA,113,Linn,Region 7,7
+19,IOWA,115,Louisa,Region 7,7
+19,IOWA,117,Lucas,Region 7,7
+19,IOWA,119,Lyon,Region 7,7
+19,IOWA,121,Madison,Region 7,7
+19,IOWA,123,Mahaska,Region 7,7
+19,IOWA,125,Marion,Region 7,7
+19,IOWA,127,Marshall,Region 7,7
+19,IOWA,129,Mills,Region 7,7
+19,IOWA,131,Mitchell,Region 7,7
+19,IOWA,133,Monona,Region 7,7
+19,IOWA,135,Monroe,Region 7,7
+19,IOWA,137,Montgomery,Region 7,7
+19,IOWA,139,Muscatine,Region 7,7
+19,IOWA,141,O'Brien,Region 7,7
+19,IOWA,143,Osceola,Region 7,7
+19,IOWA,145,Page,Region 7,7
+19,IOWA,147,Palo Alto,Region 7,7
+19,IOWA,149,Plymouth,Region 7,7
+19,IOWA,151,Pocahontas,Region 7,7
+19,IOWA,153,Polk,Region 7,7
+19,IOWA,155,Pottawattamie,Region 7,7
+19,IOWA,157,Poweshiek,Region 7,7
+19,IOWA,159,Ringgold,Region 7,7
+19,IOWA,161,Sac,Region 7,7
+19,IOWA,163,Scott,Region 7,7
+19,IOWA,165,Shelby,Region 7,7
+19,IOWA,167,Sioux,Region 7,7
+19,IOWA,169,Story,Region 7,7
+19,IOWA,171,Tama,Region 7,7
+19,IOWA,173,Taylor,Region 7,7
+19,IOWA,175,Union,Region 7,7
+19,IOWA,177,Van Buren,Region 7,7
+19,IOWA,179,Wapello,Region 7,7
+19,IOWA,181,Warren,Region 7,7
+19,IOWA,183,Washington,Region 7,7
+19,IOWA,185,Wayne,Region 7,7
+19,IOWA,187,Webster,Region 7,7
+19,IOWA,189,Winnebago,Region 7,7
+19,IOWA,191,Winneshiek,Region 7,7
+19,IOWA,193,Woodbury,Region 7,7
+19,IOWA,195,Worth,Region 7,7
+19,IOWA,197,Wright,Region 7,7
+20,KANSAS,1,Allen,Region 7,7
+20,KANSAS,3,Anderson,Region 7,7
+20,KANSAS,5,Atchison,Region 7,7
+20,KANSAS,7,Barber,Region 7,7
+20,KANSAS,9,Barton,Region 7,7
+20,KANSAS,11,Bourbon,Region 7,7
+20,KANSAS,13,Brown,Region 7,7
+20,KANSAS,15,Butler,Region 7,7
+20,KANSAS,17,Chase,Region 7,7
+20,KANSAS,19,Chautauqua,Region 7,7
+20,KANSAS,21,Cherokee,Region 7,7
+20,KANSAS,23,Cheyenne,Region 7,7
+20,KANSAS,25,Clark,Region 7,7
+20,KANSAS,27,Clay,Region 7,7
+20,KANSAS,29,Cloud,Region 7,7
+20,KANSAS,31,Coffey,Region 7,7
+20,KANSAS,33,Comanche,Region 7,7
+20,KANSAS,35,Cowley,Region 7,7
+20,KANSAS,37,Crawford,Region 7,7
+20,KANSAS,39,Decatur,Region 7,7
+20,KANSAS,41,Dickinson,Region 7,7
+20,KANSAS,43,Doniphan,Region 7,7
+20,KANSAS,45,Douglas,Region 7,7
+20,KANSAS,47,Edwards,Region 7,7
+20,KANSAS,49,Elk,Region 7,7
+20,KANSAS,51,Ellis,Region 7,7
+20,KANSAS,53,Ellsworth,Region 7,7
+20,KANSAS,55,Finney,Region 7,7
+20,KANSAS,57,Ford,Region 7,7
+20,KANSAS,59,Franklin,Region 7,7
+20,KANSAS,61,Geary,Region 7,7
+20,KANSAS,63,Gove,Region 7,7
+20,KANSAS,65,Graham,Region 7,7
+20,KANSAS,67,Grant,Region 7,7
+20,KANSAS,69,Gray,Region 7,7
+20,KANSAS,71,Greeley,Region 7,7
+20,KANSAS,73,Greenwood,Region 7,7
+20,KANSAS,75,Hamilton,Region 7,7
+20,KANSAS,77,Harper,Region 7,7
+20,KANSAS,79,Harvey,Region 7,7
+20,KANSAS,81,Haskell,Region 7,7
+20,KANSAS,83,Hodgeman,Region 7,7
+20,KANSAS,85,Jackson,Region 7,7
+20,KANSAS,87,Jefferson,Region 7,7
+20,KANSAS,89,Jewell,Region 7,7
+20,KANSAS,91,Johnson,Region 7,7
+20,KANSAS,93,Kearny,Region 7,7
+20,KANSAS,95,Kingman,Region 7,7
+20,KANSAS,97,Kiowa,Region 7,7
+20,KANSAS,99,Labette,Region 7,7
+20,KANSAS,101,Lane,Region 7,7
+20,KANSAS,103,Leavenworth,Region 7,7
+20,KANSAS,105,Lincoln,Region 7,7
+20,KANSAS,107,Linn,Region 7,7
+20,KANSAS,109,Logan,Region 7,7
+20,KANSAS,111,Lyon,Region 7,7
+20,KANSAS,113,McPherson,Region 7,7
+20,KANSAS,115,Marion,Region 7,7
+20,KANSAS,117,Marshall,Region 7,7
+20,KANSAS,119,Meade,Region 7,7
+20,KANSAS,121,Miami,Region 7,7
+20,KANSAS,123,Mitchell,Region 7,7
+20,KANSAS,125,Montgomery,Region 7,7
+20,KANSAS,127,Morris,Region 7,7
+20,KANSAS,129,Morton,Region 7,7
+20,KANSAS,131,Nemaha,Region 7,7
+20,KANSAS,133,Neosho,Region 7,7
+20,KANSAS,135,Ness,Region 7,7
+20,KANSAS,137,Norton,Region 7,7
+20,KANSAS,139,Osage,Region 7,7
+20,KANSAS,141,Osborne,Region 7,7
+20,KANSAS,143,Ottawa,Region 7,7
+20,KANSAS,145,Pawnee,Region 7,7
+20,KANSAS,147,Phillips,Region 7,7
+20,KANSAS,149,Pottawatomie,Region 7,7
+20,KANSAS,151,Pratt,Region 7,7
+20,KANSAS,153,Rawlins,Region 7,7
+20,KANSAS,155,Reno,Region 7,7
+20,KANSAS,157,Republic,Region 7,7
+20,KANSAS,159,Rice,Region 7,7
+20,KANSAS,161,Riley,Region 7,7
+20,KANSAS,163,Rooks,Region 7,7
+20,KANSAS,165,Rush,Region 7,7
+20,KANSAS,167,Russell,Region 7,7
+20,KANSAS,169,Saline,Region 7,7
+20,KANSAS,171,Scott,Region 7,7
+20,KANSAS,173,Sedgwick,Region 7,7
+20,KANSAS,175,Seward,Region 7,7
+20,KANSAS,177,Shawnee,Region 7,7
+20,KANSAS,179,Sheridan,Region 7,7
+20,KANSAS,181,Sherman,Region 7,7
+20,KANSAS,183,Smith,Region 7,7
+20,KANSAS,185,Stafford,Region 7,7
+20,KANSAS,187,Stanton,Region 7,7
+20,KANSAS,189,Stevens,Region 7,7
+20,KANSAS,191,Sumner,Region 7,7
+20,KANSAS,193,Thomas,Region 7,7
+20,KANSAS,195,Trego,Region 7,7
+20,KANSAS,197,Wabaunsee,Region 7,7
+20,KANSAS,199,Wallace,Region 7,7
+20,KANSAS,201,Washington,Region 7,7
+20,KANSAS,203,Wichita,Region 7,7
+20,KANSAS,205,Wilson,Region 7,7
+20,KANSAS,207,Woodson,Region 7,7
+20,KANSAS,209,Wyandotte,Region 7,7
+21,KENTUCKY,1,Adair,Region 4,4
+21,KENTUCKY,3,Allen,Region 4,4
+21,KENTUCKY,5,Anderson,Region 4,4
+21,KENTUCKY,7,Ballard,Region 4,4
+21,KENTUCKY,9,Barren,Region 4,4
+21,KENTUCKY,11,Bath,Region 4,4
+21,KENTUCKY,13,Bell,Region 4,4
+21,KENTUCKY,15,Boone,Region 4,4
+21,KENTUCKY,17,Bourbon,Region 4,4
+21,KENTUCKY,19,Boyd,Region 4,4
+21,KENTUCKY,21,Boyle,Region 4,4
+21,KENTUCKY,23,Bracken,Region 4,4
+21,KENTUCKY,25,Breathitt,Region 4,4
+21,KENTUCKY,27,Breckinridge,Region 4,4
+21,KENTUCKY,29,Bullitt,Region 4,4
+21,KENTUCKY,31,Butler,Region 4,4
+21,KENTUCKY,33,Caldwell,Region 4,4
+21,KENTUCKY,35,Calloway,Region 4,4
+21,KENTUCKY,37,Campbell,Region 4,4
+21,KENTUCKY,39,Carlisle,Region 4,4
+21,KENTUCKY,41,Carroll,Region 4,4
+21,KENTUCKY,43,Carter,Region 4,4
+21,KENTUCKY,45,Casey,Region 4,4
+21,KENTUCKY,47,Christian,Region 4,4
+21,KENTUCKY,49,Clark,Region 4,4
+21,KENTUCKY,51,Clay,Region 4,4
+21,KENTUCKY,53,Clinton,Region 4,4
+21,KENTUCKY,55,Crittenden,Region 4,4
+21,KENTUCKY,57,Cumberland,Region 4,4
+21,KENTUCKY,59,Daviess,Region 4,4
+21,KENTUCKY,61,Edmonson,Region 4,4
+21,KENTUCKY,63,Elliott,Region 4,4
+21,KENTUCKY,65,Estill,Region 4,4
+21,KENTUCKY,67,Fayette,Region 4,4
+21,KENTUCKY,69,Fleming,Region 4,4
+21,KENTUCKY,71,Floyd,Region 4,4
+21,KENTUCKY,73,Franklin,Region 4,4
+21,KENTUCKY,75,Fulton,Region 4,4
+21,KENTUCKY,77,Gallatin,Region 4,4
+21,KENTUCKY,79,Garrard,Region 4,4
+21,KENTUCKY,81,Grant,Region 4,4
+21,KENTUCKY,83,Graves,Region 4,4
+21,KENTUCKY,85,Grayson,Region 4,4
+21,KENTUCKY,87,Green,Region 4,4
+21,KENTUCKY,89,Greenup,Region 4,4
+21,KENTUCKY,91,Hancock,Region 4,4
+21,KENTUCKY,93,Hardin,Region 4,4
+21,KENTUCKY,95,Harlan,Region 4,4
+21,KENTUCKY,97,Harrison,Region 4,4
+21,KENTUCKY,99,Hart,Region 4,4
+21,KENTUCKY,101,Henderson,Region 4,4
+21,KENTUCKY,103,Henry,Region 4,4
+21,KENTUCKY,105,Hickman,Region 4,4
+21,KENTUCKY,107,Hopkins,Region 4,4
+21,KENTUCKY,109,Jackson,Region 4,4
+21,KENTUCKY,111,Jefferson,Region 4,4
+21,KENTUCKY,113,Jessamine,Region 4,4
+21,KENTUCKY,115,Johnson,Region 4,4
+21,KENTUCKY,117,Kenton,Region 4,4
+21,KENTUCKY,119,Knott,Region 4,4
+21,KENTUCKY,121,Knox,Region 4,4
+21,KENTUCKY,123,Larue,Region 4,4
+21,KENTUCKY,125,Laurel,Region 4,4
+21,KENTUCKY,127,Lawrence,Region 4,4
+21,KENTUCKY,129,Lee,Region 4,4
+21,KENTUCKY,131,Leslie,Region 4,4
+21,KENTUCKY,133,Letcher,Region 4,4
+21,KENTUCKY,135,Lewis,Region 4,4
+21,KENTUCKY,137,Lincoln,Region 4,4
+21,KENTUCKY,139,Livingston,Region 4,4
+21,KENTUCKY,141,Logan,Region 4,4
+21,KENTUCKY,143,Lyon,Region 4,4
+21,KENTUCKY,145,McCracken,Region 4,4
+21,KENTUCKY,147,McCreary,Region 4,4
+21,KENTUCKY,149,McLean,Region 4,4
+21,KENTUCKY,151,Madison,Region 4,4
+21,KENTUCKY,153,Magoffin,Region 4,4
+21,KENTUCKY,155,Marion,Region 4,4
+21,KENTUCKY,157,Marshall,Region 4,4
+21,KENTUCKY,159,Martin,Region 4,4
+21,KENTUCKY,161,Mason,Region 4,4
+21,KENTUCKY,163,Meade,Region 4,4
+21,KENTUCKY,165,Menifee,Region 4,4
+21,KENTUCKY,167,Mercer,Region 4,4
+21,KENTUCKY,169,Metcalfe,Region 4,4
+21,KENTUCKY,171,Monroe,Region 4,4
+21,KENTUCKY,173,Montgomery,Region 4,4
+21,KENTUCKY,175,Morgan,Region 4,4
+21,KENTUCKY,177,Muhlenberg,Region 4,4
+21,KENTUCKY,179,Nelson,Region 4,4
+21,KENTUCKY,181,Nicholas,Region 4,4
+21,KENTUCKY,183,Ohio,Region 4,4
+21,KENTUCKY,185,Oldham,Region 4,4
+21,KENTUCKY,187,Owen,Region 4,4
+21,KENTUCKY,189,Owsley,Region 4,4
+21,KENTUCKY,191,Pendleton,Region 4,4
+21,KENTUCKY,193,Perry,Region 4,4
+21,KENTUCKY,195,Pike,Region 4,4
+21,KENTUCKY,197,Powell,Region 4,4
+21,KENTUCKY,199,Pulaski,Region 4,4
+21,KENTUCKY,201,Robertson,Region 4,4
+21,KENTUCKY,203,Rockcastle,Region 4,4
+21,KENTUCKY,205,Rowan,Region 4,4
+21,KENTUCKY,207,Russell,Region 4,4
+21,KENTUCKY,209,Scott,Region 4,4
+21,KENTUCKY,211,Shelby,Region 4,4
+21,KENTUCKY,213,Simpson,Region 4,4
+21,KENTUCKY,215,Spencer,Region 4,4
+21,KENTUCKY,217,Taylor,Region 4,4
+21,KENTUCKY,219,Todd,Region 4,4
+21,KENTUCKY,221,Trigg,Region 4,4
+21,KENTUCKY,223,Trimble,Region 4,4
+21,KENTUCKY,225,Union,Region 4,4
+21,KENTUCKY,227,Warren,Region 4,4
+21,KENTUCKY,229,Washington,Region 4,4
+21,KENTUCKY,231,Wayne,Region 4,4
+21,KENTUCKY,233,Webster,Region 4,4
+21,KENTUCKY,235,Whitley,Region 4,4
+21,KENTUCKY,237,Wolfe,Region 4,4
+21,KENTUCKY,239,Woodford,Region 4,4
+22,LOUISIANA,1,Acadia,Region 6,6
+22,LOUISIANA,3,Allen,Region 6,6
+22,LOUISIANA,5,Ascension,Region 6,6
+22,LOUISIANA,7,Assumption,Region 6,6
+22,LOUISIANA,9,Avoyelles,Region 6,6
+22,LOUISIANA,11,Beauregard,Region 6,6
+22,LOUISIANA,13,Bienville,Region 6,6
+22,LOUISIANA,15,Bossier,Region 6,6
+22,LOUISIANA,17,Caddo,Region 6,6
+22,LOUISIANA,19,Calcasieu,Region 6,6
+22,LOUISIANA,21,Caldwell,Region 6,6
+22,LOUISIANA,23,Cameron,Region 6,6
+22,LOUISIANA,25,Catahoula,Region 6,6
+22,LOUISIANA,27,Claiborne,Region 6,6
+22,LOUISIANA,29,Concordia,Region 6,6
+22,LOUISIANA,31,De Soto,Region 6,6
+22,LOUISIANA,33,East Baton Rouge,Region 6,6
+22,LOUISIANA,35,East Carroll,Region 6,6
+22,LOUISIANA,37,East Feliciana,Region 6,6
+22,LOUISIANA,39,Evangeline,Region 6,6
+22,LOUISIANA,41,Franklin,Region 6,6
+22,LOUISIANA,43,Grant,Region 6,6
+22,LOUISIANA,45,Iberia,Region 6,6
+22,LOUISIANA,47,Iberville,Region 6,6
+22,LOUISIANA,49,Jackson,Region 6,6
+22,LOUISIANA,51,Jefferson,Region 6,6
+22,LOUISIANA,53,Jefferson Davis,Region 6,6
+22,LOUISIANA,55,Lafayette,Region 6,6
+22,LOUISIANA,57,Lafourche,Region 6,6
+22,LOUISIANA,59,LaSalle,Region 6,6
+22,LOUISIANA,61,Lincoln,Region 6,6
+22,LOUISIANA,63,Livingston,Region 6,6
+22,LOUISIANA,65,Madison,Region 6,6
+22,LOUISIANA,67,Morehouse,Region 6,6
+22,LOUISIANA,69,Natchitoches,Region 6,6
+22,LOUISIANA,71,Orleans,Region 6,6
+22,LOUISIANA,73,Ouachita,Region 6,6
+22,LOUISIANA,75,Plaquemines,Region 6,6
+22,LOUISIANA,77,Pointe Coupee,Region 6,6
+22,LOUISIANA,79,Rapides,Region 6,6
+22,LOUISIANA,81,Red River,Region 6,6
+22,LOUISIANA,83,Richland,Region 6,6
+22,LOUISIANA,85,Sabine,Region 6,6
+22,LOUISIANA,87,St. Bernard,Region 6,6
+22,LOUISIANA,89,St. Charles,Region 6,6
+22,LOUISIANA,91,St. Helena,Region 6,6
+22,LOUISIANA,93,St. James,Region 6,6
+22,LOUISIANA,95,St. John the Baptist,Region 6,6
+22,LOUISIANA,97,St. Landry,Region 6,6
+22,LOUISIANA,99,St. Martin,Region 6,6
+22,LOUISIANA,101,St. Mary,Region 6,6
+22,LOUISIANA,103,St. Tammany,Region 6,6
+22,LOUISIANA,105,Tangipahoa,Region 6,6
+22,LOUISIANA,107,Tensas,Region 6,6
+22,LOUISIANA,109,Terrebonne,Region 6,6
+22,LOUISIANA,111,Union,Region 6,6
+22,LOUISIANA,113,Vermilion,Region 6,6
+22,LOUISIANA,115,Vernon,Region 6,6
+22,LOUISIANA,117,Washington,Region 6,6
+22,LOUISIANA,119,Webster,Region 6,6
+22,LOUISIANA,121,West Baton Rouge,Region 6,6
+22,LOUISIANA,123,West Carroll,Region 6,6
+22,LOUISIANA,125,West Feliciana,Region 6,6
+22,LOUISIANA,127,Winn,Region 6,6
+23,MAINE,1,Androscoggin,Region 1,1
+23,MAINE,3,Aroostook,Region 1,1
+23,MAINE,5,Cumberland,Region 1,1
+23,MAINE,7,Franklin,Region 1,1
+23,MAINE,9,Hancock,Region 1,1
+23,MAINE,11,Kennebec,Region 1,1
+23,MAINE,13,Knox,Region 1,1
+23,MAINE,15,Lincoln,Region 1,1
+23,MAINE,17,Oxford,Region 1,1
+23,MAINE,19,Penobscot,Region 1,1
+23,MAINE,21,Piscataquis,Region 1,1
+23,MAINE,23,Sagadahoc,Region 1,1
+23,MAINE,25,Somerset,Region 1,1
+23,MAINE,27,Waldo,Region 1,1
+23,MAINE,29,Washington,Region 1,1
+23,MAINE,31,York,Region 1,1
+24,MARYLAND,1,Allegany,Region 3,3
+24,MARYLAND,3,Anne Arundel,Region 3,3
+24,MARYLAND,5,Baltimore,Region 3,3
+24,MARYLAND,9,Calvert,Region 3,3
+24,MARYLAND,11,Caroline,Region 3,3
+24,MARYLAND,13,Carroll,Region 3,3
+24,MARYLAND,15,Cecil,Region 3,3
+24,MARYLAND,17,Charles,Region 3,3
+24,MARYLAND,19,Dorchester,Region 3,3
+24,MARYLAND,21,Frederick,Region 3,3
+24,MARYLAND,23,Garrett,Region 3,3
+24,MARYLAND,25,Harford,Region 3,3
+24,MARYLAND,27,Howard,Region 3,3
+24,MARYLAND,29,Kent,Region 3,3
+24,MARYLAND,31,Montgomery,Region 3,3
+24,MARYLAND,33,Prince George's,Region 3,3
+24,MARYLAND,35,Queen Anne's,Region 3,3
+24,MARYLAND,37,St. Mary's,Region 3,3
+24,MARYLAND,39,Somerset,Region 3,3
+24,MARYLAND,41,Talbot,Region 3,3
+24,MARYLAND,43,Washington,Region 3,3
+24,MARYLAND,45,Wicomico,Region 3,3
+24,MARYLAND,47,Worcester,Region 3,3
+24,MARYLAND,510,Baltimore,Region 3,3
+25,MASSACHUSETTS,1,Barnstable,Region 1,1
+25,MASSACHUSETTS,3,Berkshire,Region 1,1
+25,MASSACHUSETTS,5,Bristol,Region 1,1
+25,MASSACHUSETTS,7,Dukes,Region 1,1
+25,MASSACHUSETTS,9,Essex,Region 1,1
+25,MASSACHUSETTS,11,Franklin,Region 1,1
+25,MASSACHUSETTS,13,Hampden,Region 1,1
+25,MASSACHUSETTS,15,Hampshire,Region 1,1
+25,MASSACHUSETTS,19,Nantucket,Region 1,1
+25,MASSACHUSETTS,21,Norfolk,Region 1,1
+25,MASSACHUSETTS,23,Plymouth,Region 1,1
+25,MASSACHUSETTS,25,Suffolk,Region 1,1
+25,MASSACHUSETTS,27,Worcester,Region 1,1
+26,MICHIGAN,1,Alcona,Region 5,5
+26,MICHIGAN,3,Alger,Region 5,5
+26,MICHIGAN,5,Allegan,Region 5,5
+26,MICHIGAN,7,Alpena,Region 5,5
+26,MICHIGAN,9,Antrim,Region 5,5
+26,MICHIGAN,11,Arenac,Region 5,5
+26,MICHIGAN,13,Baraga,Region 5,5
+26,MICHIGAN,15,Barry,Region 5,5
+26,MICHIGAN,17,Bay,Region 5,5
+26,MICHIGAN,19,Benzie,Region 5,5
+26,MICHIGAN,21,Berrien,Region 5,5
+26,MICHIGAN,23,Branch,Region 5,5
+26,MICHIGAN,25,Calhoun,Region 5,5
+26,MICHIGAN,27,Cass,Region 5,5
+26,MICHIGAN,29,Charlevoix,Region 5,5
+26,MICHIGAN,31,Cheboygan,Region 5,5
+26,MICHIGAN,33,Chippewa,Region 5,5
+26,MICHIGAN,35,Clare,Region 5,5
+26,MICHIGAN,37,Clinton,Region 5,5
+26,MICHIGAN,39,Crawford,Region 5,5
+26,MICHIGAN,41,Delta,Region 5,5
+26,MICHIGAN,43,Dickinson,Region 5,5
+26,MICHIGAN,45,Eaton,Region 5,5
+26,MICHIGAN,47,Emmet,Region 5,5
+26,MICHIGAN,49,Genesee,Region 5,5
+26,MICHIGAN,51,Gladwin,Region 5,5
+26,MICHIGAN,53,Gogebic,Region 5,5
+26,MICHIGAN,55,Grand Traverse,Region 5,5
+26,MICHIGAN,57,Gratiot,Region 5,5
+26,MICHIGAN,59,Hillsdale,Region 5,5
+26,MICHIGAN,61,Houghton,Region 5,5
+26,MICHIGAN,63,Huron,Region 5,5
+26,MICHIGAN,65,Ingham,Region 5,5
+26,MICHIGAN,67,Ionia,Region 5,5
+26,MICHIGAN,69,Iosco,Region 5,5
+26,MICHIGAN,71,Iron,Region 5,5
+26,MICHIGAN,73,Isabella,Region 5,5
+26,MICHIGAN,75,Jackson,Region 5,5
+26,MICHIGAN,77,Kalamazoo,Region 5,5
+26,MICHIGAN,79,Kalkaska,Region 5,5
+26,MICHIGAN,81,Kent,Region 5,5
+26,MICHIGAN,83,Keweenaw,Region 5,5
+26,MICHIGAN,85,Lake,Region 5,5
+26,MICHIGAN,87,Lapeer,Region 5,5
+26,MICHIGAN,89,Leelanau,Region 5,5
+26,MICHIGAN,91,Lenawee,Region 5,5
+26,MICHIGAN,93,Livingston,Region 5,5
+26,MICHIGAN,95,Luce,Region 5,5
+26,MICHIGAN,97,Mackinac,Region 5,5
+26,MICHIGAN,99,Macomb,Region 5,5
+26,MICHIGAN,101,Manistee,Region 5,5
+26,MICHIGAN,103,Marquette,Region 5,5
+26,MICHIGAN,105,Mason,Region 5,5
+26,MICHIGAN,107,Mecosta,Region 5,5
+26,MICHIGAN,109,Menominee,Region 5,5
+26,MICHIGAN,111,Midland,Region 5,5
+26,MICHIGAN,113,Missaukee,Region 5,5
+26,MICHIGAN,115,Monroe,Region 5,5
+26,MICHIGAN,117,Montcalm,Region 5,5
+26,MICHIGAN,119,Montmorency,Region 5,5
+26,MICHIGAN,121,Muskegon,Region 5,5
+26,MICHIGAN,123,Newaygo,Region 5,5
+26,MICHIGAN,125,Oakland,Region 5,5
+26,MICHIGAN,127,Oceana,Region 5,5
+26,MICHIGAN,129,Ogemaw,Region 5,5
+26,MICHIGAN,131,Ontonagon,Region 5,5
+26,MICHIGAN,133,Osceola,Region 5,5
+26,MICHIGAN,135,Oscoda,Region 5,5
+26,MICHIGAN,137,Otsego,Region 5,5
+26,MICHIGAN,139,Ottawa,Region 5,5
+26,MICHIGAN,141,Presque Isle,Region 5,5
+26,MICHIGAN,143,Roscommon,Region 5,5
+26,MICHIGAN,145,Saginaw,Region 5,5
+26,MICHIGAN,147,St. Clair,Region 5,5
+26,MICHIGAN,149,St. Joseph,Region 5,5
+26,MICHIGAN,151,Sanilac,Region 5,5
+26,MICHIGAN,153,Schoolcraft,Region 5,5
+26,MICHIGAN,155,Shiawassee,Region 5,5
+26,MICHIGAN,157,Tuscola,Region 5,5
+26,MICHIGAN,159,Van Buren,Region 5,5
+26,MICHIGAN,161,Washtenaw,Region 5,5
+26,MICHIGAN,163,Wayne,Region 5,5
+26,MICHIGAN,165,Wexford,Region 5,5
+27,MINNESOTA,1,Aitkin,Region 5,5
+27,MINNESOTA,3,Anoka,Region 5,5
+27,MINNESOTA,5,Becker,Region 5,5
+27,MINNESOTA,7,Beltrami,Region 5,5
+27,MINNESOTA,9,Benton,Region 5,5
+27,MINNESOTA,11,Big Stone,Region 5,5
+27,MINNESOTA,13,Blue Earth,Region 5,5
+27,MINNESOTA,15,Brown,Region 5,5
+27,MINNESOTA,17,Carlton,Region 5,5
+27,MINNESOTA,19,Carver,Region 5,5
+27,MINNESOTA,21,Cass,Region 5,5
+27,MINNESOTA,23,Chippewa,Region 5,5
+27,MINNESOTA,25,Chisago,Region 5,5
+27,MINNESOTA,27,Clay,Region 5,5
+27,MINNESOTA,29,Clearwater,Region 5,5
+27,MINNESOTA,31,Cook,Region 5,5
+27,MINNESOTA,33,Cottonwood,Region 5,5
+27,MINNESOTA,35,Crow Wing,Region 5,5
+27,MINNESOTA,37,Dakota,Region 5,5
+27,MINNESOTA,39,Dodge,Region 5,5
+27,MINNESOTA,41,Douglas,Region 5,5
+27,MINNESOTA,43,Faribault,Region 5,5
+27,MINNESOTA,45,Fillmore,Region 5,5
+27,MINNESOTA,47,Freeborn,Region 5,5
+27,MINNESOTA,49,Goodhue,Region 5,5
+27,MINNESOTA,51,Grant,Region 5,5
+27,MINNESOTA,53,Hennepin,Region 5,5
+27,MINNESOTA,55,Houston,Region 5,5
+27,MINNESOTA,57,Hubbard,Region 5,5
+27,MINNESOTA,59,Isanti,Region 5,5
+27,MINNESOTA,61,Itasca,Region 5,5
+27,MINNESOTA,63,Jackson,Region 5,5
+27,MINNESOTA,65,Kanabec,Region 5,5
+27,MINNESOTA,67,Kandiyohi,Region 5,5
+27,MINNESOTA,69,Kittson,Region 5,5
+27,MINNESOTA,71,Koochiching,Region 5,5
+27,MINNESOTA,73,Lac qui Parle,Region 5,5
+27,MINNESOTA,75,Lake,Region 5,5
+27,MINNESOTA,77,Lake of the Woods,Region 5,5
+27,MINNESOTA,79,Le Sueur,Region 5,5
+27,MINNESOTA,81,Lincoln,Region 5,5
+27,MINNESOTA,83,Lyon,Region 5,5
+27,MINNESOTA,85,McLeod,Region 5,5
+27,MINNESOTA,87,Mahnomen,Region 5,5
+27,MINNESOTA,89,Marshall,Region 5,5
+27,MINNESOTA,91,Martin,Region 5,5
+27,MINNESOTA,93,Meeker,Region 5,5
+27,MINNESOTA,95,Mille Lacs,Region 5,5
+27,MINNESOTA,97,Morrison,Region 5,5
+27,MINNESOTA,99,Mower,Region 5,5
+27,MINNESOTA,101,Murray,Region 5,5
+27,MINNESOTA,103,Nicollet,Region 5,5
+27,MINNESOTA,105,Nobles,Region 5,5
+27,MINNESOTA,107,Norman,Region 5,5
+27,MINNESOTA,109,Olmsted,Region 5,5
+27,MINNESOTA,111,Otter Tail,Region 5,5
+27,MINNESOTA,113,Pennington,Region 5,5
+27,MINNESOTA,115,Pine,Region 5,5
+27,MINNESOTA,117,Pipestone,Region 5,5
+27,MINNESOTA,119,Polk,Region 5,5
+27,MINNESOTA,121,Pope,Region 5,5
+27,MINNESOTA,123,Ramsey,Region 5,5
+27,MINNESOTA,125,Red Lake,Region 5,5
+27,MINNESOTA,127,Redwood,Region 5,5
+27,MINNESOTA,129,Renville,Region 5,5
+27,MINNESOTA,131,Rice,Region 5,5
+27,MINNESOTA,133,Rock,Region 5,5
+27,MINNESOTA,135,Roseau,Region 5,5
+27,MINNESOTA,137,St. Louis,Region 5,5
+27,MINNESOTA,139,Scott,Region 5,5
+27,MINNESOTA,141,Sherburne,Region 5,5
+27,MINNESOTA,143,Sibley,Region 5,5
+27,MINNESOTA,145,Stearns,Region 5,5
+27,MINNESOTA,147,Steele,Region 5,5
+27,MINNESOTA,149,Stevens,Region 5,5
+27,MINNESOTA,151,Swift,Region 5,5
+27,MINNESOTA,153,Todd,Region 5,5
+27,MINNESOTA,155,Traverse,Region 5,5
+27,MINNESOTA,157,Wabasha,Region 5,5
+27,MINNESOTA,159,Wadena,Region 5,5
+27,MINNESOTA,161,Waseca,Region 5,5
+27,MINNESOTA,163,Washington,Region 5,5
+27,MINNESOTA,165,Watonwan,Region 5,5
+27,MINNESOTA,167,Wilkin,Region 5,5
+27,MINNESOTA,169,Winona,Region 5,5
+27,MINNESOTA,171,Wright,Region 5,5
+27,MINNESOTA,173,Yellow Medicine,Region 5,5
+28,MISSISSIPPI,1,Adams,Region 4,4
+28,MISSISSIPPI,3,Alcorn,Region 4,4
+28,MISSISSIPPI,5,Amite,Region 4,4
+28,MISSISSIPPI,7,Attala,Region 4,4
+28,MISSISSIPPI,9,Benton,Region 4,4
+28,MISSISSIPPI,11,Bolivar,Region 4,4
+28,MISSISSIPPI,13,Calhoun,Region 4,4
+28,MISSISSIPPI,15,Carroll,Region 4,4
+28,MISSISSIPPI,17,Chickasaw,Region 4,4
+28,MISSISSIPPI,19,Choctaw,Region 4,4
+28,MISSISSIPPI,21,Claiborne,Region 4,4
+28,MISSISSIPPI,23,Clarke,Region 4,4
+28,MISSISSIPPI,25,Clay,Region 4,4
+28,MISSISSIPPI,27,Coahoma,Region 4,4
+28,MISSISSIPPI,29,Copiah,Region 4,4
+28,MISSISSIPPI,31,Covington,Region 4,4
+28,MISSISSIPPI,33,DeSoto,Region 4,4
+28,MISSISSIPPI,35,Forrest,Region 4,4
+28,MISSISSIPPI,37,Franklin,Region 4,4
+28,MISSISSIPPI,39,George,Region 4,4
+28,MISSISSIPPI,41,Greene,Region 4,4
+28,MISSISSIPPI,43,Grenada,Region 4,4
+28,MISSISSIPPI,45,Hancock,Region 4,4
+28,MISSISSIPPI,47,Harrison,Region 4,4
+28,MISSISSIPPI,49,Hinds,Region 4,4
+28,MISSISSIPPI,51,Holmes,Region 4,4
+28,MISSISSIPPI,53,Humphreys,Region 4,4
+28,MISSISSIPPI,55,Issaquena,Region 4,4
+28,MISSISSIPPI,57,Itawamba,Region 4,4
+28,MISSISSIPPI,59,Jackson,Region 4,4
+28,MISSISSIPPI,61,Jasper,Region 4,4
+28,MISSISSIPPI,63,Jefferson,Region 4,4
+28,MISSISSIPPI,65,Jefferson Davis,Region 4,4
+28,MISSISSIPPI,67,Jones,Region 4,4
+28,MISSISSIPPI,69,Kemper,Region 4,4
+28,MISSISSIPPI,71,Lafayette,Region 4,4
+28,MISSISSIPPI,73,Lamar,Region 4,4
+28,MISSISSIPPI,75,Lauderdale,Region 4,4
+28,MISSISSIPPI,77,Lawrence,Region 4,4
+28,MISSISSIPPI,79,Leake,Region 4,4
+28,MISSISSIPPI,81,Lee,Region 4,4
+28,MISSISSIPPI,83,Leflore,Region 4,4
+28,MISSISSIPPI,85,Lincoln,Region 4,4
+28,MISSISSIPPI,87,Lowndes,Region 4,4
+28,MISSISSIPPI,89,Madison,Region 4,4
+28,MISSISSIPPI,91,Marion,Region 4,4
+28,MISSISSIPPI,93,Marshall,Region 4,4
+28,MISSISSIPPI,95,Monroe,Region 4,4
+28,MISSISSIPPI,97,Montgomery,Region 4,4
+28,MISSISSIPPI,99,Neshoba,Region 4,4
+28,MISSISSIPPI,101,Newton,Region 4,4
+28,MISSISSIPPI,103,Noxubee,Region 4,4
+28,MISSISSIPPI,105,Oktibbeha,Region 4,4
+28,MISSISSIPPI,107,Panola,Region 4,4
+28,MISSISSIPPI,109,Pearl River,Region 4,4
+28,MISSISSIPPI,111,Perry,Region 4,4
+28,MISSISSIPPI,113,Pike,Region 4,4
+28,MISSISSIPPI,115,Pontotoc,Region 4,4
+28,MISSISSIPPI,117,Prentiss,Region 4,4
+28,MISSISSIPPI,119,Quitman,Region 4,4
+28,MISSISSIPPI,121,Rankin,Region 4,4
+28,MISSISSIPPI,123,Scott,Region 4,4
+28,MISSISSIPPI,125,Sharkey,Region 4,4
+28,MISSISSIPPI,127,Simpson,Region 4,4
+28,MISSISSIPPI,129,Smith,Region 4,4
+28,MISSISSIPPI,131,Stone,Region 4,4
+28,MISSISSIPPI,133,Sunflower,Region 4,4
+28,MISSISSIPPI,135,Tallahatchie,Region 4,4
+28,MISSISSIPPI,137,Tate,Region 4,4
+28,MISSISSIPPI,139,Tippah,Region 4,4
+28,MISSISSIPPI,141,Tishomingo,Region 4,4
+28,MISSISSIPPI,143,Tunica,Region 4,4
+28,MISSISSIPPI,145,Union,Region 4,4
+28,MISSISSIPPI,147,Walthall,Region 4,4
+28,MISSISSIPPI,149,Warren,Region 4,4
+28,MISSISSIPPI,151,Washington,Region 4,4
+28,MISSISSIPPI,153,Wayne,Region 4,4
+28,MISSISSIPPI,155,Webster,Region 4,4
+28,MISSISSIPPI,157,Wilkinson,Region 4,4
+28,MISSISSIPPI,159,Winston,Region 4,4
+28,MISSISSIPPI,161,Yalobusha,Region 4,4
+28,MISSISSIPPI,163,Yazoo,Region 4,4
+29,MISSOURI,1,Adair,Region 7,7
+29,MISSOURI,3,Andrew,Region 7,7
+29,MISSOURI,5,Atchison,Region 7,7
+29,MISSOURI,7,Audrain,Region 7,7
+29,MISSOURI,9,Barry,Region 7,7
+29,MISSOURI,11,Barton,Region 7,7
+29,MISSOURI,13,Bates,Region 7,7
+29,MISSOURI,15,Benton,Region 7,7
+29,MISSOURI,17,Bollinger,Region 7,7
+29,MISSOURI,19,Boone,Region 7,7
+29,MISSOURI,21,Buchanan,Region 7,7
+29,MISSOURI,23,Butler,Region 7,7
+29,MISSOURI,25,Caldwell,Region 7,7
+29,MISSOURI,27,Callaway,Region 7,7
+29,MISSOURI,29,Camden,Region 7,7
+29,MISSOURI,31,Cape Girardeau,Region 7,7
+29,MISSOURI,33,Carroll,Region 7,7
+29,MISSOURI,35,Carter,Region 7,7
+29,MISSOURI,37,Cass,Region 7,7
+29,MISSOURI,39,Cedar,Region 7,7
+29,MISSOURI,41,Chariton,Region 7,7
+29,MISSOURI,43,Christian,Region 7,7
+29,MISSOURI,45,Clark,Region 7,7
+29,MISSOURI,47,Clay,Region 7,7
+29,MISSOURI,49,Clinton,Region 7,7
+29,MISSOURI,51,Cole,Region 7,7
+29,MISSOURI,53,Cooper,Region 7,7
+29,MISSOURI,55,Crawford,Region 7,7
+29,MISSOURI,57,Dade,Region 7,7
+29,MISSOURI,59,Dallas,Region 7,7
+29,MISSOURI,61,Daviess,Region 7,7
+29,MISSOURI,63,DeKalb,Region 7,7
+29,MISSOURI,65,Dent,Region 7,7
+29,MISSOURI,67,Douglas,Region 7,7
+29,MISSOURI,69,Dunklin,Region 7,7
+29,MISSOURI,71,Franklin,Region 7,7
+29,MISSOURI,73,Gasconade,Region 7,7
+29,MISSOURI,75,Gentry,Region 7,7
+29,MISSOURI,77,Greene,Region 7,7
+29,MISSOURI,79,Grundy,Region 7,7
+29,MISSOURI,81,Harrison,Region 7,7
+29,MISSOURI,83,Henry,Region 7,7
+29,MISSOURI,85,Hickory,Region 7,7
+29,MISSOURI,87,Holt,Region 7,7
+29,MISSOURI,89,Howard,Region 7,7
+29,MISSOURI,91,Howell,Region 7,7
+29,MISSOURI,93,Iron,Region 7,7
+29,MISSOURI,95,Jackson,Region 7,7
+29,MISSOURI,97,Jasper,Region 7,7
+29,MISSOURI,99,Jefferson,Region 7,7
+29,MISSOURI,101,Johnson,Region 7,7
+29,MISSOURI,103,Knox,Region 7,7
+29,MISSOURI,105,Laclede,Region 7,7
+29,MISSOURI,107,Lafayette,Region 7,7
+29,MISSOURI,109,Lawrence,Region 7,7
+29,MISSOURI,111,Lewis,Region 7,7
+29,MISSOURI,113,Lincoln,Region 7,7
+29,MISSOURI,115,Linn,Region 7,7
+29,MISSOURI,117,Livingston,Region 7,7
+29,MISSOURI,119,McDonald,Region 7,7
+29,MISSOURI,121,Macon,Region 7,7
+29,MISSOURI,123,Madison,Region 7,7
+29,MISSOURI,125,Maries,Region 7,7
+29,MISSOURI,127,Marion,Region 7,7
+29,MISSOURI,129,Mercer,Region 7,7
+29,MISSOURI,131,Miller,Region 7,7
+29,MISSOURI,133,Mississippi,Region 7,7
+29,MISSOURI,135,Moniteau,Region 7,7
+29,MISSOURI,137,Monroe,Region 7,7
+29,MISSOURI,139,Montgomery,Region 7,7
+29,MISSOURI,141,Morgan,Region 7,7
+29,MISSOURI,143,New Madrid,Region 7,7
+29,MISSOURI,145,Newton,Region 7,7
+29,MISSOURI,147,Nodaway,Region 7,7
+29,MISSOURI,149,Oregon,Region 7,7
+29,MISSOURI,151,Osage,Region 7,7
+29,MISSOURI,153,Ozark,Region 7,7
+29,MISSOURI,155,Pemiscot,Region 7,7
+29,MISSOURI,157,Perry,Region 7,7
+29,MISSOURI,159,Pettis,Region 7,7
+29,MISSOURI,161,Phelps,Region 7,7
+29,MISSOURI,163,Pike,Region 7,7
+29,MISSOURI,165,Platte,Region 7,7
+29,MISSOURI,167,Polk,Region 7,7
+29,MISSOURI,169,Pulaski,Region 7,7
+29,MISSOURI,171,Putnam,Region 7,7
+29,MISSOURI,173,Ralls,Region 7,7
+29,MISSOURI,175,Randolph,Region 7,7
+29,MISSOURI,177,Ray,Region 7,7
+29,MISSOURI,179,Reynolds,Region 7,7
+29,MISSOURI,181,Ripley,Region 7,7
+29,MISSOURI,183,St. Charles,Region 7,7
+29,MISSOURI,185,St. Clair,Region 7,7
+29,MISSOURI,186,Ste. Genevieve,Region 7,7
+29,MISSOURI,187,St. Francois,Region 7,7
+29,MISSOURI,189,St. Louis,Region 7,7
+29,MISSOURI,195,Saline,Region 7,7
+29,MISSOURI,197,Schuyler,Region 7,7
+29,MISSOURI,199,Scotland,Region 7,7
+29,MISSOURI,201,Scott,Region 7,7
+29,MISSOURI,203,Shannon,Region 7,7
+29,MISSOURI,205,Shelby,Region 7,7
+29,MISSOURI,207,Stoddard,Region 7,7
+29,MISSOURI,209,Stone,Region 7,7
+29,MISSOURI,211,Sullivan,Region 7,7
+29,MISSOURI,213,Taney,Region 7,7
+29,MISSOURI,215,Texas,Region 7,7
+29,MISSOURI,217,Vernon,Region 7,7
+29,MISSOURI,219,Warren,Region 7,7
+29,MISSOURI,221,Washington,Region 7,7
+29,MISSOURI,223,Wayne,Region 7,7
+29,MISSOURI,225,Webster,Region 7,7
+29,MISSOURI,227,Worth,Region 7,7
+29,MISSOURI,229,Wright,Region 7,7
+29,MISSOURI,510,St. Louis,Region 7,7
+30,MONTANA,1,Beaverhead,Region 8,8
+30,MONTANA,3,Big Horn,Region 8,8
+30,MONTANA,5,Blaine,Region 8,8
+30,MONTANA,7,Broadwater,Region 8,8
+30,MONTANA,9,Carbon,Region 8,8
+30,MONTANA,11,Carter,Region 8,8
+30,MONTANA,13,Cascade,Region 8,8
+30,MONTANA,15,Chouteau,Region 8,8
+30,MONTANA,17,Custer,Region 8,8
+30,MONTANA,19,Daniels,Region 8,8
+30,MONTANA,21,Dawson,Region 8,8
+30,MONTANA,23,Deer Lodge,Region 8,8
+30,MONTANA,25,Fallon,Region 8,8
+30,MONTANA,27,Fergus,Region 8,8
+30,MONTANA,29,Flathead,Region 8,8
+30,MONTANA,31,Gallatin,Region 8,8
+30,MONTANA,33,Garfield,Region 8,8
+30,MONTANA,35,Glacier,Region 8,8
+30,MONTANA,37,Golden Valley,Region 8,8
+30,MONTANA,39,Granite,Region 8,8
+30,MONTANA,41,Hill,Region 8,8
+30,MONTANA,43,Jefferson,Region 8,8
+30,MONTANA,45,Judith Basin,Region 8,8
+30,MONTANA,47,Lake,Region 8,8
+30,MONTANA,49,Lewis and Clark,Region 8,8
+30,MONTANA,51,Liberty,Region 8,8
+30,MONTANA,53,Lincoln,Region 8,8
+30,MONTANA,55,McCone,Region 8,8
+30,MONTANA,57,Madison,Region 8,8
+30,MONTANA,59,Meagher,Region 8,8
+30,MONTANA,61,Mineral,Region 8,8
+30,MONTANA,63,Missoula,Region 8,8
+30,MONTANA,65,Musselshell,Region 8,8
+30,MONTANA,67,Park,Region 8,8
+30,MONTANA,69,Petroleum,Region 8,8
+30,MONTANA,71,Phillips,Region 8,8
+30,MONTANA,73,Pondera,Region 8,8
+30,MONTANA,75,Powder River,Region 8,8
+30,MONTANA,77,Powell,Region 8,8
+30,MONTANA,79,Prairie,Region 8,8
+30,MONTANA,81,Ravalli,Region 8,8
+30,MONTANA,83,Richland,Region 8,8
+30,MONTANA,85,Roosevelt,Region 8,8
+30,MONTANA,87,Rosebud,Region 8,8
+30,MONTANA,89,Sanders,Region 8,8
+30,MONTANA,91,Sheridan,Region 8,8
+30,MONTANA,93,Silver Bow,Region 8,8
+30,MONTANA,95,Stillwater,Region 8,8
+30,MONTANA,97,Sweet Grass,Region 8,8
+30,MONTANA,99,Teton,Region 8,8
+30,MONTANA,101,Toole,Region 8,8
+30,MONTANA,103,Treasure,Region 8,8
+30,MONTANA,105,Valley,Region 8,8
+30,MONTANA,107,Wheatland,Region 8,8
+30,MONTANA,109,Wibaux,Region 8,8
+30,MONTANA,111,Yellowstone,Region 8,8
+31,NEBRASKA,1,Adams,Region 7,7
+31,NEBRASKA,3,Antelope,Region 7,7
+31,NEBRASKA,5,Arthur,Region 7,7
+31,NEBRASKA,7,Banner,Region 7,7
+31,NEBRASKA,9,Blaine,Region 7,7
+31,NEBRASKA,11,Boone,Region 7,7
+31,NEBRASKA,13,Box Butte,Region 7,7
+31,NEBRASKA,15,Boyd,Region 7,7
+31,NEBRASKA,17,Brown,Region 7,7
+31,NEBRASKA,19,Buffalo,Region 7,7
+31,NEBRASKA,21,Burt,Region 7,7
+31,NEBRASKA,23,Butler,Region 7,7
+31,NEBRASKA,25,Cass,Region 7,7
+31,NEBRASKA,27,Cedar,Region 7,7
+31,NEBRASKA,29,Chase,Region 7,7
+31,NEBRASKA,31,Cherry,Region 7,7
+31,NEBRASKA,33,Cheyenne,Region 7,7
+31,NEBRASKA,35,Clay,Region 7,7
+31,NEBRASKA,37,Colfax,Region 7,7
+31,NEBRASKA,39,Cuming,Region 7,7
+31,NEBRASKA,41,Custer,Region 7,7
+31,NEBRASKA,43,Dakota,Region 7,7
+31,NEBRASKA,45,Dawes,Region 7,7
+31,NEBRASKA,47,Dawson,Region 7,7
+31,NEBRASKA,49,Deuel,Region 7,7
+31,NEBRASKA,51,Dixon,Region 7,7
+31,NEBRASKA,53,Dodge,Region 7,7
+31,NEBRASKA,55,Douglas,Region 7,7
+31,NEBRASKA,57,Dundy,Region 7,7
+31,NEBRASKA,59,Fillmore,Region 7,7
+31,NEBRASKA,61,Franklin,Region 7,7
+31,NEBRASKA,63,Frontier,Region 7,7
+31,NEBRASKA,65,Furnas,Region 7,7
+31,NEBRASKA,67,Gage,Region 7,7
+31,NEBRASKA,69,Garden,Region 7,7
+31,NEBRASKA,71,Garfield,Region 7,7
+31,NEBRASKA,73,Gosper,Region 7,7
+31,NEBRASKA,75,Grant,Region 7,7
+31,NEBRASKA,77,Greeley,Region 7,7
+31,NEBRASKA,79,Hall,Region 7,7
+31,NEBRASKA,81,Hamilton,Region 7,7
+31,NEBRASKA,83,Harlan,Region 7,7
+31,NEBRASKA,85,Hayes,Region 7,7
+31,NEBRASKA,87,Hitchcock,Region 7,7
+31,NEBRASKA,89,Holt,Region 7,7
+31,NEBRASKA,91,Hooker,Region 7,7
+31,NEBRASKA,93,Howard,Region 7,7
+31,NEBRASKA,95,Jefferson,Region 7,7
+31,NEBRASKA,97,Johnson,Region 7,7
+31,NEBRASKA,99,Kearney,Region 7,7
+31,NEBRASKA,101,Keith,Region 7,7
+31,NEBRASKA,103,Keya Paha,Region 7,7
+31,NEBRASKA,105,Kimball,Region 7,7
+31,NEBRASKA,107,Knox,Region 7,7
+31,NEBRASKA,109,Lancaster,Region 7,7
+31,NEBRASKA,111,Lincoln,Region 7,7
+31,NEBRASKA,113,Logan,Region 7,7
+31,NEBRASKA,115,Loup,Region 7,7
+31,NEBRASKA,117,McPherson,Region 7,7
+31,NEBRASKA,119,Madison,Region 7,7
+31,NEBRASKA,121,Merrick,Region 7,7
+31,NEBRASKA,123,Morrill,Region 7,7
+31,NEBRASKA,125,Nance,Region 7,7
+31,NEBRASKA,127,Nemaha,Region 7,7
+31,NEBRASKA,129,Nuckolls,Region 7,7
+31,NEBRASKA,131,Otoe,Region 7,7
+31,NEBRASKA,133,Pawnee,Region 7,7
+31,NEBRASKA,135,Perkins,Region 7,7
+31,NEBRASKA,137,Phelps,Region 7,7
+31,NEBRASKA,139,Pierce,Region 7,7
+31,NEBRASKA,141,Platte,Region 7,7
+31,NEBRASKA,143,Polk,Region 7,7
+31,NEBRASKA,145,Red Willow,Region 7,7
+31,NEBRASKA,147,Richardson,Region 7,7
+31,NEBRASKA,149,Rock,Region 7,7
+31,NEBRASKA,151,Saline,Region 7,7
+31,NEBRASKA,153,Sarpy,Region 7,7
+31,NEBRASKA,155,Saunders,Region 7,7
+31,NEBRASKA,157,Scotts Bluff,Region 7,7
+31,NEBRASKA,159,Seward,Region 7,7
+31,NEBRASKA,161,Sheridan,Region 7,7
+31,NEBRASKA,163,Sherman,Region 7,7
+31,NEBRASKA,165,Sioux,Region 7,7
+31,NEBRASKA,167,Stanton,Region 7,7
+31,NEBRASKA,169,Thayer,Region 7,7
+31,NEBRASKA,171,Thomas,Region 7,7
+31,NEBRASKA,173,Thurston,Region 7,7
+31,NEBRASKA,175,Valley,Region 7,7
+31,NEBRASKA,177,Washington,Region 7,7
+31,NEBRASKA,179,Wayne,Region 7,7
+31,NEBRASKA,181,Webster,Region 7,7
+31,NEBRASKA,183,Wheeler,Region 7,7
+31,NEBRASKA,185,York,Region 7,7
+32,NEVADA,1,Churchill,Region 9,9
+32,NEVADA,3,Clark,Region 9,9
+32,NEVADA,5,Douglas,Region 9,9
+32,NEVADA,7,Elko,Region 9,9
+32,NEVADA,9,Esmeralda,Region 9,9
+32,NEVADA,11,Eureka,Region 9,9
+32,NEVADA,13,Humboldt,Region 9,9
+32,NEVADA,15,Lander,Region 9,9
+32,NEVADA,17,Lincoln,Region 9,9
+32,NEVADA,19,Lyon,Region 9,9
+32,NEVADA,21,Mineral,Region 9,9
+32,NEVADA,23,Nye,Region 9,9
+32,NEVADA,27,Pershing,Region 9,9
+32,NEVADA,29,Storey,Region 9,9
+32,NEVADA,31,Washoe,Region 9,9
+32,NEVADA,33,White Pine,Region 9,9
+32,NEVADA,510,Carson City,Region 9,9
+33,NEW HAMPSHIRE,1,Belknap,Region 1,1
+33,NEW HAMPSHIRE,3,Carroll,Region 1,1
+33,NEW HAMPSHIRE,5,Cheshire,Region 1,1
+33,NEW HAMPSHIRE,7,Coos,Region 1,1
+33,NEW HAMPSHIRE,9,Grafton,Region 1,1
+33,NEW HAMPSHIRE,11,Hillsborough,Region 1,1
+33,NEW HAMPSHIRE,13,Merrimack,Region 1,1
+33,NEW HAMPSHIRE,15,Rockingham,Region 1,1
+33,NEW HAMPSHIRE,17,Strafford,Region 1,1
+33,NEW HAMPSHIRE,19,Sullivan,Region 1,1
+34,NEW JERSEY,1,Atlantic,Region 2,2
+34,NEW JERSEY,3,Bergen,Region 2,2
+34,NEW JERSEY,5,Burlington,Region 2,2
+34,NEW JERSEY,7,Camden,Region 2,2
+34,NEW JERSEY,9,Cape May,Region 2,2
+34,NEW JERSEY,11,Cumberland,Region 2,2
+34,NEW JERSEY,13,Essex,Region 2,2
+34,NEW JERSEY,15,Gloucester,Region 2,2
+34,NEW JERSEY,17,Hudson,Region 2,2
+34,NEW JERSEY,19,Hunterdon,Region 2,2
+34,NEW JERSEY,21,Mercer,Region 2,2
+34,NEW JERSEY,23,Middlesex,Region 2,2
+34,NEW JERSEY,25,Monmouth,Region 2,2
+34,NEW JERSEY,27,Morris,Region 2,2
+34,NEW JERSEY,29,Ocean,Region 2,2
+34,NEW JERSEY,31,Passaic,Region 2,2
+34,NEW JERSEY,33,Salem,Region 2,2
+34,NEW JERSEY,35,Somerset,Region 2,2
+34,NEW JERSEY,37,Sussex,Region 2,2
+34,NEW JERSEY,39,Union,Region 2,2
+34,NEW JERSEY,41,Warren,Region 2,2
+35,NEW MEXICO,1,Bernalillo,Region 6,6
+35,NEW MEXICO,3,Catron,Region 6,6
+35,NEW MEXICO,5,Chaves,Region 6,6
+35,NEW MEXICO,6,Cibola,Region 6,6
+35,NEW MEXICO,7,Colfax,Region 6,6
+35,NEW MEXICO,9,Curry,Region 6,6
+35,NEW MEXICO,11,De Baca,Region 6,6
+35,NEW MEXICO,13,Doña Ana,Region 6,6
+35,NEW MEXICO,15,Eddy,Region 6,6
+35,NEW MEXICO,17,Grant,Region 6,6
+35,NEW MEXICO,19,Guadalupe,Region 6,6
+35,NEW MEXICO,21,Harding,Region 6,6
+35,NEW MEXICO,23,Hidalgo,Region 6,6
+35,NEW MEXICO,25,Lea,Region 6,6
+35,NEW MEXICO,27,Lincoln,Region 6,6
+35,NEW MEXICO,28,Los Alamos,Region 6,6
+35,NEW MEXICO,29,Luna,Region 6,6
+35,NEW MEXICO,31,McKinley,Region 6,6
+35,NEW MEXICO,33,Mora,Region 6,6
+35,NEW MEXICO,35,Otero,Region 6,6
+35,NEW MEXICO,37,Quay,Region 6,6
+35,NEW MEXICO,39,Rio Arriba,Region 6,6
+35,NEW MEXICO,41,Roosevelt,Region 6,6
+35,NEW MEXICO,43,Sandoval,Region 6,6
+35,NEW MEXICO,45,San Juan,Region 6,6
+35,NEW MEXICO,47,San Miguel,Region 6,6
+35,NEW MEXICO,49,Santa Fe,Region 6,6
+35,NEW MEXICO,51,Sierra,Region 6,6
+35,NEW MEXICO,53,Socorro,Region 6,6
+35,NEW MEXICO,55,Taos,Region 6,6
+35,NEW MEXICO,57,Torrance,Region 6,6
+35,NEW MEXICO,59,Union,Region 6,6
+35,NEW MEXICO,61,Valencia,Region 6,6
+36,NEW YORK,1,Albany,Region 2,2
+36,NEW YORK,3,Allegany,Region 2,2
+36,NEW YORK,5,Bronx,Region 2,2
+36,NEW YORK,7,Broome,Region 2,2
+36,NEW YORK,9,Cattaraugus,Region 2,2
+36,NEW YORK,11,Cayuga,Region 2,2
+36,NEW YORK,13,Chautauqua,Region 2,2
+36,NEW YORK,15,Chemung,Region 2,2
+36,NEW YORK,17,Chenango,Region 2,2
+36,NEW YORK,19,Clinton,Region 2,2
+36,NEW YORK,21,Columbia,Region 2,2
+36,NEW YORK,23,Cortland,Region 2,2
+36,NEW YORK,25,Delaware,Region 2,2
+36,NEW YORK,27,Dutchess,Region 2,2
+36,NEW YORK,29,Erie,Region 2,2
+36,NEW YORK,31,Essex,Region 2,2
+36,NEW YORK,33,Franklin,Region 2,2
+36,NEW YORK,35,Fulton,Region 2,2
+36,NEW YORK,37,Genesee,Region 2,2
+36,NEW YORK,39,Greene,Region 2,2
+36,NEW YORK,41,Hamilton,Region 2,2
+36,NEW YORK,43,Herkimer,Region 2,2
+36,NEW YORK,45,Jefferson,Region 2,2
+36,NEW YORK,47,Kings,Region 2,2
+36,NEW YORK,49,Lewis,Region 2,2
+36,NEW YORK,51,Livingston,Region 2,2
+36,NEW YORK,53,Madison,Region 2,2
+36,NEW YORK,55,Monroe,Region 2,2
+36,NEW YORK,57,Montgomery,Region 2,2
+36,NEW YORK,59,Nassau,Region 2,2
+36,NEW YORK,61,New York,Region 2,2
+36,NEW YORK,63,Niagara,Region 2,2
+36,NEW YORK,65,Oneida,Region 2,2
+36,NEW YORK,67,Onondaga,Region 2,2
+36,NEW YORK,69,Ontario,Region 2,2
+36,NEW YORK,71,Orange,Region 2,2
+36,NEW YORK,73,Orleans,Region 2,2
+36,NEW YORK,75,Oswego,Region 2,2
+36,NEW YORK,77,Otsego,Region 2,2
+36,NEW YORK,79,Putnam,Region 2,2
+36,NEW YORK,81,Queens,Region 2,2
+36,NEW YORK,83,Rensselaer,Region 2,2
+36,NEW YORK,85,Richmond,Region 2,2
+36,NEW YORK,87,Rockland,Region 2,2
+36,NEW YORK,89,St. Lawrence,Region 2,2
+36,NEW YORK,91,Saratoga,Region 2,2
+36,NEW YORK,93,Schenectady,Region 2,2
+36,NEW YORK,95,Schoharie,Region 2,2
+36,NEW YORK,97,Schuyler,Region 2,2
+36,NEW YORK,99,Seneca,Region 2,2
+36,NEW YORK,101,Steuben,Region 2,2
+36,NEW YORK,103,Suffolk,Region 2,2
+36,NEW YORK,105,Sullivan,Region 2,2
+36,NEW YORK,107,Tioga,Region 2,2
+36,NEW YORK,109,Tompkins,Region 2,2
+36,NEW YORK,111,Ulster,Region 2,2
+36,NEW YORK,113,Warren,Region 2,2
+36,NEW YORK,115,Washington,Region 2,2
+36,NEW YORK,117,Wayne,Region 2,2
+36,NEW YORK,119,Westchester,Region 2,2
+36,NEW YORK,121,Wyoming,Region 2,2
+36,NEW YORK,123,Yates,Region 2,2
+37,NORTH CAROLINA,1,Alamance,Region 4,4
+37,NORTH CAROLINA,3,Alexander,Region 4,4
+37,NORTH CAROLINA,5,Alleghany,Region 4,4
+37,NORTH CAROLINA,7,Anson,Region 4,4
+37,NORTH CAROLINA,9,Ashe,Region 4,4
+37,NORTH CAROLINA,11,Avery,Region 4,4
+37,NORTH CAROLINA,13,Beaufort,Region 4,4
+37,NORTH CAROLINA,15,Bertie,Region 4,4
+37,NORTH CAROLINA,17,Bladen,Region 4,4
+37,NORTH CAROLINA,19,Brunswick,Region 4,4
+37,NORTH CAROLINA,21,Buncombe,Region 4,4
+37,NORTH CAROLINA,23,Burke,Region 4,4
+37,NORTH CAROLINA,25,Cabarrus,Region 4,4
+37,NORTH CAROLINA,27,Caldwell,Region 4,4
+37,NORTH CAROLINA,29,Camden,Region 4,4
+37,NORTH CAROLINA,31,Carteret,Region 4,4
+37,NORTH CAROLINA,33,Caswell,Region 4,4
+37,NORTH CAROLINA,35,Catawba,Region 4,4
+37,NORTH CAROLINA,37,Chatham,Region 4,4
+37,NORTH CAROLINA,39,Cherokee,Region 4,4
+37,NORTH CAROLINA,41,Chowan,Region 4,4
+37,NORTH CAROLINA,43,Clay,Region 4,4
+37,NORTH CAROLINA,45,Cleveland,Region 4,4
+37,NORTH CAROLINA,47,Columbus,Region 4,4
+37,NORTH CAROLINA,49,Craven,Region 4,4
+37,NORTH CAROLINA,51,Cumberland,Region 4,4
+37,NORTH CAROLINA,53,Currituck,Region 4,4
+37,NORTH CAROLINA,55,Dare,Region 4,4
+37,NORTH CAROLINA,57,Davidson,Region 4,4
+37,NORTH CAROLINA,59,Davie,Region 4,4
+37,NORTH CAROLINA,61,Duplin,Region 4,4
+37,NORTH CAROLINA,63,Durham,Region 4,4
+37,NORTH CAROLINA,65,Edgecombe,Region 4,4
+37,NORTH CAROLINA,67,Forsyth,Region 4,4
+37,NORTH CAROLINA,69,Franklin,Region 4,4
+37,NORTH CAROLINA,71,Gaston,Region 4,4
+37,NORTH CAROLINA,73,Gates,Region 4,4
+37,NORTH CAROLINA,75,Graham,Region 4,4
+37,NORTH CAROLINA,77,Granville,Region 4,4
+37,NORTH CAROLINA,79,Greene,Region 4,4
+37,NORTH CAROLINA,81,Guilford,Region 4,4
+37,NORTH CAROLINA,83,Halifax,Region 4,4
+37,NORTH CAROLINA,85,Harnett,Region 4,4
+37,NORTH CAROLINA,87,Haywood,Region 4,4
+37,NORTH CAROLINA,89,Henderson,Region 4,4
+37,NORTH CAROLINA,91,Hertford,Region 4,4
+37,NORTH CAROLINA,93,Hoke,Region 4,4
+37,NORTH CAROLINA,95,Hyde,Region 4,4
+37,NORTH CAROLINA,97,Iredell,Region 4,4
+37,NORTH CAROLINA,99,Jackson,Region 4,4
+37,NORTH CAROLINA,101,Johnston,Region 4,4
+37,NORTH CAROLINA,103,Jones,Region 4,4
+37,NORTH CAROLINA,105,Lee,Region 4,4
+37,NORTH CAROLINA,107,Lenoir,Region 4,4
+37,NORTH CAROLINA,109,Lincoln,Region 4,4
+37,NORTH CAROLINA,111,McDowell,Region 4,4
+37,NORTH CAROLINA,113,Macon,Region 4,4
+37,NORTH CAROLINA,115,Madison,Region 4,4
+37,NORTH CAROLINA,117,Martin,Region 4,4
+37,NORTH CAROLINA,119,Mecklenburg,Region 4,4
+37,NORTH CAROLINA,121,Mitchell,Region 4,4
+37,NORTH CAROLINA,123,Montgomery,Region 4,4
+37,NORTH CAROLINA,125,Moore,Region 4,4
+37,NORTH CAROLINA,127,Nash,Region 4,4
+37,NORTH CAROLINA,129,New Hanover,Region 4,4
+37,NORTH CAROLINA,131,Northampton,Region 4,4
+37,NORTH CAROLINA,133,Onslow,Region 4,4
+37,NORTH CAROLINA,135,Orange,Region 4,4
+37,NORTH CAROLINA,137,Pamlico,Region 4,4
+37,NORTH CAROLINA,139,Pasquotank,Region 4,4
+37,NORTH CAROLINA,141,Pender,Region 4,4
+37,NORTH CAROLINA,143,Perquimans,Region 4,4
+37,NORTH CAROLINA,145,Person,Region 4,4
+37,NORTH CAROLINA,147,Pitt,Region 4,4
+37,NORTH CAROLINA,149,Polk,Region 4,4
+37,NORTH CAROLINA,151,Randolph,Region 4,4
+37,NORTH CAROLINA,153,Richmond,Region 4,4
+37,NORTH CAROLINA,155,Robeson,Region 4,4
+37,NORTH CAROLINA,157,Rockingham,Region 4,4
+37,NORTH CAROLINA,159,Rowan,Region 4,4
+37,NORTH CAROLINA,161,Rutherford,Region 4,4
+37,NORTH CAROLINA,163,Sampson,Region 4,4
+37,NORTH CAROLINA,165,Scotland,Region 4,4
+37,NORTH CAROLINA,167,Stanly,Region 4,4
+37,NORTH CAROLINA,169,Stokes,Region 4,4
+37,NORTH CAROLINA,171,Surry,Region 4,4
+37,NORTH CAROLINA,173,Swain,Region 4,4
+37,NORTH CAROLINA,175,Transylvania,Region 4,4
+37,NORTH CAROLINA,177,Tyrrell,Region 4,4
+37,NORTH CAROLINA,179,Union,Region 4,4
+37,NORTH CAROLINA,181,Vance,Region 4,4
+37,NORTH CAROLINA,183,Wake,Region 4,4
+37,NORTH CAROLINA,185,Warren,Region 4,4
+37,NORTH CAROLINA,187,Washington,Region 4,4
+37,NORTH CAROLINA,189,Watauga,Region 4,4
+37,NORTH CAROLINA,191,Wayne,Region 4,4
+37,NORTH CAROLINA,193,Wilkes,Region 4,4
+37,NORTH CAROLINA,195,Wilson,Region 4,4
+37,NORTH CAROLINA,197,Yadkin,Region 4,4
+37,NORTH CAROLINA,199,Yancey,Region 4,4
+38,NORTH DAKOTA,1,Adams,Region 8,8
+38,NORTH DAKOTA,3,Barnes,Region 8,8
+38,NORTH DAKOTA,5,Benson,Region 8,8
+38,NORTH DAKOTA,7,Billings,Region 8,8
+38,NORTH DAKOTA,9,Bottineau,Region 8,8
+38,NORTH DAKOTA,11,Bowman,Region 8,8
+38,NORTH DAKOTA,13,Burke,Region 8,8
+38,NORTH DAKOTA,15,Burleigh,Region 8,8
+38,NORTH DAKOTA,17,Cass,Region 8,8
+38,NORTH DAKOTA,19,Cavalier,Region 8,8
+38,NORTH DAKOTA,21,Dickey,Region 8,8
+38,NORTH DAKOTA,23,Divide,Region 8,8
+38,NORTH DAKOTA,25,Dunn,Region 8,8
+38,NORTH DAKOTA,27,Eddy,Region 8,8
+38,NORTH DAKOTA,29,Emmons,Region 8,8
+38,NORTH DAKOTA,31,Foster,Region 8,8
+38,NORTH DAKOTA,33,Golden Valley,Region 8,8
+38,NORTH DAKOTA,35,Grand Forks,Region 8,8
+38,NORTH DAKOTA,37,Grant,Region 8,8
+38,NORTH DAKOTA,39,Griggs,Region 8,8
+38,NORTH DAKOTA,41,Hettinger,Region 8,8
+38,NORTH DAKOTA,43,Kidder,Region 8,8
+38,NORTH DAKOTA,45,LaMoure,Region 8,8
+38,NORTH DAKOTA,47,Logan,Region 8,8
+38,NORTH DAKOTA,49,McHenry,Region 8,8
+38,NORTH DAKOTA,51,McIntosh,Region 8,8
+38,NORTH DAKOTA,53,McKenzie,Region 8,8
+38,NORTH DAKOTA,55,McLean,Region 8,8
+38,NORTH DAKOTA,57,Mercer,Region 8,8
+38,NORTH DAKOTA,59,Morton,Region 8,8
+38,NORTH DAKOTA,61,Mountrail,Region 8,8
+38,NORTH DAKOTA,63,Nelson,Region 8,8
+38,NORTH DAKOTA,65,Oliver,Region 8,8
+38,NORTH DAKOTA,67,Pembina,Region 8,8
+38,NORTH DAKOTA,69,Pierce,Region 8,8
+38,NORTH DAKOTA,71,Ramsey,Region 8,8
+38,NORTH DAKOTA,73,Ransom,Region 8,8
+38,NORTH DAKOTA,75,Renville,Region 8,8
+38,NORTH DAKOTA,77,Richland,Region 8,8
+38,NORTH DAKOTA,79,Rolette,Region 8,8
+38,NORTH DAKOTA,81,Sargent,Region 8,8
+38,NORTH DAKOTA,83,Sheridan,Region 8,8
+38,NORTH DAKOTA,85,Sioux,Region 8,8
+38,NORTH DAKOTA,87,Slope,Region 8,8
+38,NORTH DAKOTA,89,Stark,Region 8,8
+38,NORTH DAKOTA,91,Steele,Region 8,8
+38,NORTH DAKOTA,93,Stutsman,Region 8,8
+38,NORTH DAKOTA,95,Towner,Region 8,8
+38,NORTH DAKOTA,97,Traill,Region 8,8
+38,NORTH DAKOTA,99,Walsh,Region 8,8
+38,NORTH DAKOTA,101,Ward,Region 8,8
+38,NORTH DAKOTA,103,Wells,Region 8,8
+38,NORTH DAKOTA,105,Williams,Region 8,8
+39,OHIO,1,Adams,Region 5,5
+39,OHIO,3,Allen,Region 5,5
+39,OHIO,5,Ashland,Region 5,5
+39,OHIO,7,Ashtabula,Region 5,5
+39,OHIO,9,Athens,Region 5,5
+39,OHIO,11,Auglaize,Region 5,5
+39,OHIO,13,Belmont,Region 5,5
+39,OHIO,15,Brown,Region 5,5
+39,OHIO,17,Butler,Region 5,5
+39,OHIO,19,Carroll,Region 5,5
+39,OHIO,21,Champaign,Region 5,5
+39,OHIO,23,Clark,Region 5,5
+39,OHIO,25,Clermont,Region 5,5
+39,OHIO,27,Clinton,Region 5,5
+39,OHIO,29,Columbiana,Region 5,5
+39,OHIO,31,Coshocton,Region 5,5
+39,OHIO,33,Crawford,Region 5,5
+39,OHIO,35,Cuyahoga,Region 5,5
+39,OHIO,37,Darke,Region 5,5
+39,OHIO,39,Defiance,Region 5,5
+39,OHIO,41,Delaware,Region 5,5
+39,OHIO,43,Erie,Region 5,5
+39,OHIO,45,Fairfield,Region 5,5
+39,OHIO,47,Fayette,Region 5,5
+39,OHIO,49,Franklin,Region 5,5
+39,OHIO,51,Fulton,Region 5,5
+39,OHIO,53,Gallia,Region 5,5
+39,OHIO,55,Geauga,Region 5,5
+39,OHIO,57,Greene,Region 5,5
+39,OHIO,59,Guernsey,Region 5,5
+39,OHIO,61,Hamilton,Region 5,5
+39,OHIO,63,Hancock,Region 5,5
+39,OHIO,65,Hardin,Region 5,5
+39,OHIO,67,Harrison,Region 5,5
+39,OHIO,69,Henry,Region 5,5
+39,OHIO,71,Highland,Region 5,5
+39,OHIO,73,Hocking,Region 5,5
+39,OHIO,75,Holmes,Region 5,5
+39,OHIO,77,Huron,Region 5,5
+39,OHIO,79,Jackson,Region 5,5
+39,OHIO,81,Jefferson,Region 5,5
+39,OHIO,83,Knox,Region 5,5
+39,OHIO,85,Lake,Region 5,5
+39,OHIO,87,Lawrence,Region 5,5
+39,OHIO,89,Licking,Region 5,5
+39,OHIO,91,Logan,Region 5,5
+39,OHIO,93,Lorain,Region 5,5
+39,OHIO,95,Lucas,Region 5,5
+39,OHIO,97,Madison,Region 5,5
+39,OHIO,99,Mahoning,Region 5,5
+39,OHIO,101,Marion,Region 5,5
+39,OHIO,103,Medina,Region 5,5
+39,OHIO,105,Meigs,Region 5,5
+39,OHIO,107,Mercer,Region 5,5
+39,OHIO,109,Miami,Region 5,5
+39,OHIO,111,Monroe,Region 5,5
+39,OHIO,113,Montgomery,Region 5,5
+39,OHIO,115,Morgan,Region 5,5
+39,OHIO,117,Morrow,Region 5,5
+39,OHIO,119,Muskingum,Region 5,5
+39,OHIO,121,Noble,Region 5,5
+39,OHIO,123,Ottawa,Region 5,5
+39,OHIO,125,Paulding,Region 5,5
+39,OHIO,127,Perry,Region 5,5
+39,OHIO,129,Pickaway,Region 5,5
+39,OHIO,131,Pike,Region 5,5
+39,OHIO,133,Portage,Region 5,5
+39,OHIO,135,Preble,Region 5,5
+39,OHIO,137,Putnam,Region 5,5
+39,OHIO,139,Richland,Region 5,5
+39,OHIO,141,Ross,Region 5,5
+39,OHIO,143,Sandusky,Region 5,5
+39,OHIO,145,Scioto,Region 5,5
+39,OHIO,147,Seneca,Region 5,5
+39,OHIO,149,Shelby,Region 5,5
+39,OHIO,151,Stark,Region 5,5
+39,OHIO,153,Summit,Region 5,5
+39,OHIO,155,Trumbull,Region 5,5
+39,OHIO,157,Tuscarawas,Region 5,5
+39,OHIO,159,Union,Region 5,5
+39,OHIO,161,Van Wert,Region 5,5
+39,OHIO,163,Vinton,Region 5,5
+39,OHIO,165,Warren,Region 5,5
+39,OHIO,167,Washington,Region 5,5
+39,OHIO,169,Wayne,Region 5,5
+39,OHIO,171,Williams,Region 5,5
+39,OHIO,173,Wood,Region 5,5
+39,OHIO,175,Wyandot,Region 5,5
+40,OKLAHOMA,1,Adair,Region 6,6
+40,OKLAHOMA,3,Alfalfa,Region 6,6
+40,OKLAHOMA,5,Atoka,Region 6,6
+40,OKLAHOMA,7,Beaver,Region 6,6
+40,OKLAHOMA,9,Beckham,Region 6,6
+40,OKLAHOMA,11,Blaine,Region 6,6
+40,OKLAHOMA,13,Bryan,Region 6,6
+40,OKLAHOMA,15,Caddo,Region 6,6
+40,OKLAHOMA,17,Canadian,Region 6,6
+40,OKLAHOMA,19,Carter,Region 6,6
+40,OKLAHOMA,21,Cherokee,Region 6,6
+40,OKLAHOMA,23,Choctaw,Region 6,6
+40,OKLAHOMA,25,Cimarron,Region 6,6
+40,OKLAHOMA,27,Cleveland,Region 6,6
+40,OKLAHOMA,29,Coal,Region 6,6
+40,OKLAHOMA,31,Comanche,Region 6,6
+40,OKLAHOMA,33,Cotton,Region 6,6
+40,OKLAHOMA,35,Craig,Region 6,6
+40,OKLAHOMA,37,Creek,Region 6,6
+40,OKLAHOMA,39,Custer,Region 6,6
+40,OKLAHOMA,41,Delaware,Region 6,6
+40,OKLAHOMA,43,Dewey,Region 6,6
+40,OKLAHOMA,45,Ellis,Region 6,6
+40,OKLAHOMA,47,Garfield,Region 6,6
+40,OKLAHOMA,49,Garvin,Region 6,6
+40,OKLAHOMA,51,Grady,Region 6,6
+40,OKLAHOMA,53,Grant,Region 6,6
+40,OKLAHOMA,55,Greer,Region 6,6
+40,OKLAHOMA,57,Harmon,Region 6,6
+40,OKLAHOMA,59,Harper,Region 6,6
+40,OKLAHOMA,61,Haskell,Region 6,6
+40,OKLAHOMA,63,Hughes,Region 6,6
+40,OKLAHOMA,65,Jackson,Region 6,6
+40,OKLAHOMA,67,Jefferson,Region 6,6
+40,OKLAHOMA,69,Johnston,Region 6,6
+40,OKLAHOMA,71,Kay,Region 6,6
+40,OKLAHOMA,73,Kingfisher,Region 6,6
+40,OKLAHOMA,75,Kiowa,Region 6,6
+40,OKLAHOMA,77,Latimer,Region 6,6
+40,OKLAHOMA,79,Le Flore,Region 6,6
+40,OKLAHOMA,81,Lincoln,Region 6,6
+40,OKLAHOMA,83,Logan,Region 6,6
+40,OKLAHOMA,85,Love,Region 6,6
+40,OKLAHOMA,87,McClain,Region 6,6
+40,OKLAHOMA,89,McCurtain,Region 6,6
+40,OKLAHOMA,91,McIntosh,Region 6,6
+40,OKLAHOMA,93,Major,Region 6,6
+40,OKLAHOMA,95,Marshall,Region 6,6
+40,OKLAHOMA,97,Mayes,Region 6,6
+40,OKLAHOMA,99,Murray,Region 6,6
+40,OKLAHOMA,101,Muskogee,Region 6,6
+40,OKLAHOMA,103,Noble,Region 6,6
+40,OKLAHOMA,105,Nowata,Region 6,6
+40,OKLAHOMA,107,Okfuskee,Region 6,6
+40,OKLAHOMA,109,Oklahoma,Region 6,6
+40,OKLAHOMA,111,Okmulgee,Region 6,6
+40,OKLAHOMA,113,Osage,Region 6,6
+40,OKLAHOMA,115,Ottawa,Region 6,6
+40,OKLAHOMA,117,Pawnee,Region 6,6
+40,OKLAHOMA,119,Payne,Region 6,6
+40,OKLAHOMA,121,Pittsburg,Region 6,6
+40,OKLAHOMA,123,Pontotoc,Region 6,6
+40,OKLAHOMA,125,Pottawatomie,Region 6,6
+40,OKLAHOMA,127,Pushmataha,Region 6,6
+40,OKLAHOMA,129,Roger Mills,Region 6,6
+40,OKLAHOMA,131,Rogers,Region 6,6
+40,OKLAHOMA,133,Seminole,Region 6,6
+40,OKLAHOMA,135,Sequoyah,Region 6,6
+40,OKLAHOMA,137,Stephens,Region 6,6
+40,OKLAHOMA,139,Texas,Region 6,6
+40,OKLAHOMA,141,Tillman,Region 6,6
+40,OKLAHOMA,143,Tulsa,Region 6,6
+40,OKLAHOMA,145,Wagoner,Region 6,6
+40,OKLAHOMA,147,Washington,Region 6,6
+40,OKLAHOMA,149,Washita,Region 6,6
+40,OKLAHOMA,151,Woods,Region 6,6
+40,OKLAHOMA,153,Woodward,Region 6,6
+41,OREGON,1,Baker,Region 10,10
+41,OREGON,3,Benton,Region 10,10
+41,OREGON,5,Clackamas,Region 10,10
+41,OREGON,7,Clatsop,Region 10,10
+41,OREGON,9,Columbia,Region 10,10
+41,OREGON,11,Coos,Region 10,10
+41,OREGON,13,Crook,Region 10,10
+41,OREGON,15,Curry,Region 10,10
+41,OREGON,17,Deschutes,Region 10,10
+41,OREGON,19,Douglas,Region 10,10
+41,OREGON,21,Gilliam,Region 10,10
+41,OREGON,23,Grant,Region 10,10
+41,OREGON,25,Harney,Region 10,10
+41,OREGON,27,Hood River,Region 10,10
+41,OREGON,29,Jackson,Region 10,10
+41,OREGON,31,Jefferson,Region 10,10
+41,OREGON,33,Josephine,Region 10,10
+41,OREGON,35,Klamath,Region 10,10
+41,OREGON,37,Lake,Region 10,10
+41,OREGON,39,Lane,Region 10,10
+41,OREGON,41,Lincoln,Region 10,10
+41,OREGON,43,Linn,Region 10,10
+41,OREGON,45,Malheur,Region 10,10
+41,OREGON,47,Marion,Region 10,10
+41,OREGON,49,Morrow,Region 10,10
+41,OREGON,51,Multnomah,Region 10,10
+41,OREGON,53,Polk,Region 10,10
+41,OREGON,55,Sherman,Region 10,10
+41,OREGON,57,Tillamook,Region 10,10
+41,OREGON,59,Umatilla,Region 10,10
+41,OREGON,61,Union,Region 10,10
+41,OREGON,63,Wallowa,Region 10,10
+41,OREGON,65,Wasco,Region 10,10
+41,OREGON,67,Washington,Region 10,10
+41,OREGON,69,Wheeler,Region 10,10
+41,OREGON,71,Yamhill,Region 10,10
+42,PENNSYLVANIA,1,Adams,Region 3,3
+42,PENNSYLVANIA,3,Allegheny,Region 3,3
+42,PENNSYLVANIA,5,Armstrong,Region 3,3
+42,PENNSYLVANIA,7,Beaver,Region 3,3
+42,PENNSYLVANIA,9,Bedford,Region 3,3
+42,PENNSYLVANIA,11,Berks,Region 3,3
+42,PENNSYLVANIA,13,Blair,Region 3,3
+42,PENNSYLVANIA,15,Bradford,Region 3,3
+42,PENNSYLVANIA,17,Bucks,Region 3,3
+42,PENNSYLVANIA,19,Butler,Region 3,3
+42,PENNSYLVANIA,21,Cambria,Region 3,3
+42,PENNSYLVANIA,23,Cameron,Region 3,3
+42,PENNSYLVANIA,25,Carbon,Region 3,3
+42,PENNSYLVANIA,27,Centre,Region 3,3
+42,PENNSYLVANIA,29,Chester,Region 3,3
+42,PENNSYLVANIA,31,Clarion,Region 3,3
+42,PENNSYLVANIA,33,Clearfield,Region 3,3
+42,PENNSYLVANIA,35,Clinton,Region 3,3
+42,PENNSYLVANIA,37,Columbia,Region 3,3
+42,PENNSYLVANIA,39,Crawford,Region 3,3
+42,PENNSYLVANIA,41,Cumberland,Region 3,3
+42,PENNSYLVANIA,43,Dauphin,Region 3,3
+42,PENNSYLVANIA,45,Delaware,Region 3,3
+42,PENNSYLVANIA,47,Elk,Region 3,3
+42,PENNSYLVANIA,49,Erie,Region 3,3
+42,PENNSYLVANIA,51,Fayette,Region 3,3
+42,PENNSYLVANIA,53,Forest,Region 3,3
+42,PENNSYLVANIA,55,Franklin,Region 3,3
+42,PENNSYLVANIA,57,Fulton,Region 3,3
+42,PENNSYLVANIA,59,Greene,Region 3,3
+42,PENNSYLVANIA,61,Huntingdon,Region 3,3
+42,PENNSYLVANIA,63,Indiana,Region 3,3
+42,PENNSYLVANIA,65,Jefferson,Region 3,3
+42,PENNSYLVANIA,67,Juniata,Region 3,3
+42,PENNSYLVANIA,69,Lackawanna,Region 3,3
+42,PENNSYLVANIA,71,Lancaster,Region 3,3
+42,PENNSYLVANIA,73,Lawrence,Region 3,3
+42,PENNSYLVANIA,75,Lebanon,Region 3,3
+42,PENNSYLVANIA,77,Lehigh,Region 3,3
+42,PENNSYLVANIA,79,Luzerne,Region 3,3
+42,PENNSYLVANIA,81,Lycoming,Region 3,3
+42,PENNSYLVANIA,83,McKean,Region 3,3
+42,PENNSYLVANIA,85,Mercer,Region 3,3
+42,PENNSYLVANIA,87,Mifflin,Region 3,3
+42,PENNSYLVANIA,89,Monroe,Region 3,3
+42,PENNSYLVANIA,91,Montgomery,Region 3,3
+42,PENNSYLVANIA,93,Montour,Region 3,3
+42,PENNSYLVANIA,95,Northampton,Region 3,3
+42,PENNSYLVANIA,97,Northumberland,Region 3,3
+42,PENNSYLVANIA,99,Perry,Region 3,3
+42,PENNSYLVANIA,101,Philadelphia,Region 3,3
+42,PENNSYLVANIA,103,Pike,Region 3,3
+42,PENNSYLVANIA,105,Potter,Region 3,3
+42,PENNSYLVANIA,107,Schuylkill,Region 3,3
+42,PENNSYLVANIA,109,Snyder,Region 3,3
+42,PENNSYLVANIA,111,Somerset,Region 3,3
+42,PENNSYLVANIA,113,Sullivan,Region 3,3
+42,PENNSYLVANIA,115,Susquehanna,Region 3,3
+42,PENNSYLVANIA,117,Tioga,Region 3,3
+42,PENNSYLVANIA,119,Union,Region 3,3
+42,PENNSYLVANIA,121,Venango,Region 3,3
+42,PENNSYLVANIA,123,Warren,Region 3,3
+42,PENNSYLVANIA,125,Washington,Region 3,3
+42,PENNSYLVANIA,127,Wayne,Region 3,3
+42,PENNSYLVANIA,129,Westmoreland,Region 3,3
+42,PENNSYLVANIA,131,Wyoming,Region 3,3
+42,PENNSYLVANIA,133,York,Region 3,3
+44,RHODE ISLAND,1,Bristol,Region 1,1
+44,RHODE ISLAND,3,Kent,Region 1,1
+44,RHODE ISLAND,5,Newport,Region 1,1
+44,RHODE ISLAND,7,Providence,Region 1,1
+44,RHODE ISLAND,9,Washington,Region 1,1
+45,SOUTH CAROLINA,1,Abbeville,Region 4,4
+45,SOUTH CAROLINA,3,Aiken,Region 4,4
+45,SOUTH CAROLINA,5,Allendale,Region 4,4
+45,SOUTH CAROLINA,7,Anderson,Region 4,4
+45,SOUTH CAROLINA,9,Bamberg,Region 4,4
+45,SOUTH CAROLINA,11,Barnwell,Region 4,4
+45,SOUTH CAROLINA,13,Beaufort,Region 4,4
+45,SOUTH CAROLINA,15,Berkeley,Region 4,4
+45,SOUTH CAROLINA,17,Calhoun,Region 4,4
+45,SOUTH CAROLINA,19,Charleston,Region 4,4
+45,SOUTH CAROLINA,21,Cherokee,Region 4,4
+45,SOUTH CAROLINA,23,Chester,Region 4,4
+45,SOUTH CAROLINA,25,Chesterfield,Region 4,4
+45,SOUTH CAROLINA,27,Clarendon,Region 4,4
+45,SOUTH CAROLINA,29,Colleton,Region 4,4
+45,SOUTH CAROLINA,31,Darlington,Region 4,4
+45,SOUTH CAROLINA,33,Dillon,Region 4,4
+45,SOUTH CAROLINA,35,Dorchester,Region 4,4
+45,SOUTH CAROLINA,37,Edgefield,Region 4,4
+45,SOUTH CAROLINA,39,Fairfield,Region 4,4
+45,SOUTH CAROLINA,41,Florence,Region 4,4
+45,SOUTH CAROLINA,43,Georgetown,Region 4,4
+45,SOUTH CAROLINA,45,Greenville,Region 4,4
+45,SOUTH CAROLINA,47,Greenwood,Region 4,4
+45,SOUTH CAROLINA,49,Hampton,Region 4,4
+45,SOUTH CAROLINA,51,Horry,Region 4,4
+45,SOUTH CAROLINA,53,Jasper,Region 4,4
+45,SOUTH CAROLINA,55,Kershaw,Region 4,4
+45,SOUTH CAROLINA,57,Lancaster,Region 4,4
+45,SOUTH CAROLINA,59,Laurens,Region 4,4
+45,SOUTH CAROLINA,61,Lee,Region 4,4
+45,SOUTH CAROLINA,63,Lexington,Region 4,4
+45,SOUTH CAROLINA,65,McCormick,Region 4,4
+45,SOUTH CAROLINA,67,Marion,Region 4,4
+45,SOUTH CAROLINA,69,Marlboro,Region 4,4
+45,SOUTH CAROLINA,71,Newberry,Region 4,4
+45,SOUTH CAROLINA,73,Oconee,Region 4,4
+45,SOUTH CAROLINA,75,Orangeburg,Region 4,4
+45,SOUTH CAROLINA,77,Pickens,Region 4,4
+45,SOUTH CAROLINA,79,Richland,Region 4,4
+45,SOUTH CAROLINA,81,Saluda,Region 4,4
+45,SOUTH CAROLINA,83,Spartanburg,Region 4,4
+45,SOUTH CAROLINA,85,Sumter,Region 4,4
+45,SOUTH CAROLINA,87,Union,Region 4,4
+45,SOUTH CAROLINA,89,Williamsburg,Region 4,4
+45,SOUTH CAROLINA,91,York,Region 4,4
+46,SOUTH DAKOTA,3,Aurora,Region 8,8
+46,SOUTH DAKOTA,5,Beadle,Region 8,8
+46,SOUTH DAKOTA,7,Bennett,Region 8,8
+46,SOUTH DAKOTA,9,Bon Homme,Region 8,8
+46,SOUTH DAKOTA,11,Brookings,Region 8,8
+46,SOUTH DAKOTA,13,Brown,Region 8,8
+46,SOUTH DAKOTA,15,Brule,Region 8,8
+46,SOUTH DAKOTA,17,Buffalo,Region 8,8
+46,SOUTH DAKOTA,19,Butte,Region 8,8
+46,SOUTH DAKOTA,21,Campbell,Region 8,8
+46,SOUTH DAKOTA,23,Charles Mix,Region 8,8
+46,SOUTH DAKOTA,25,Clark,Region 8,8
+46,SOUTH DAKOTA,27,Clay,Region 8,8
+46,SOUTH DAKOTA,29,Codington,Region 8,8
+46,SOUTH DAKOTA,31,Corson,Region 8,8
+46,SOUTH DAKOTA,33,Custer,Region 8,8
+46,SOUTH DAKOTA,35,Davison,Region 8,8
+46,SOUTH DAKOTA,37,Day,Region 8,8
+46,SOUTH DAKOTA,39,Deuel,Region 8,8
+46,SOUTH DAKOTA,41,Dewey,Region 8,8
+46,SOUTH DAKOTA,43,Douglas,Region 8,8
+46,SOUTH DAKOTA,45,Edmunds,Region 8,8
+46,SOUTH DAKOTA,47,Fall River,Region 8,8
+46,SOUTH DAKOTA,49,Faulk,Region 8,8
+46,SOUTH DAKOTA,51,Grant,Region 8,8
+46,SOUTH DAKOTA,53,Gregory,Region 8,8
+46,SOUTH DAKOTA,55,Haakon,Region 8,8
+46,SOUTH DAKOTA,57,Hamlin,Region 8,8
+46,SOUTH DAKOTA,59,Hand,Region 8,8
+46,SOUTH DAKOTA,61,Hanson,Region 8,8
+46,SOUTH DAKOTA,63,Harding,Region 8,8
+46,SOUTH DAKOTA,65,Hughes,Region 8,8
+46,SOUTH DAKOTA,67,Hutchinson,Region 8,8
+46,SOUTH DAKOTA,69,Hyde,Region 8,8
+46,SOUTH DAKOTA,71,Jackson,Region 8,8
+46,SOUTH DAKOTA,73,Jerauld,Region 8,8
+46,SOUTH DAKOTA,75,Jones,Region 8,8
+46,SOUTH DAKOTA,77,Kingsbury,Region 8,8
+46,SOUTH DAKOTA,79,Lake,Region 8,8
+46,SOUTH DAKOTA,81,Lawrence,Region 8,8
+46,SOUTH DAKOTA,83,Lincoln,Region 8,8
+46,SOUTH DAKOTA,85,Lyman,Region 8,8
+46,SOUTH DAKOTA,87,McCook,Region 8,8
+46,SOUTH DAKOTA,89,McPherson,Region 8,8
+46,SOUTH DAKOTA,91,Marshall,Region 8,8
+46,SOUTH DAKOTA,93,Meade,Region 8,8
+46,SOUTH DAKOTA,95,Mellette,Region 8,8
+46,SOUTH DAKOTA,97,Miner,Region 8,8
+46,SOUTH DAKOTA,99,Minnehaha,Region 8,8
+46,SOUTH DAKOTA,101,Moody,Region 8,8
+46,SOUTH DAKOTA,102,Oglala Lakota,Region 8,8
+46,SOUTH DAKOTA,103,Pennington,Region 8,8
+46,SOUTH DAKOTA,105,Perkins,Region 8,8
+46,SOUTH DAKOTA,107,Potter,Region 8,8
+46,SOUTH DAKOTA,109,Roberts,Region 8,8
+46,SOUTH DAKOTA,111,Sanborn,Region 8,8
+46,SOUTH DAKOTA,115,Spink,Region 8,8
+46,SOUTH DAKOTA,117,Stanley,Region 8,8
+46,SOUTH DAKOTA,119,Sully,Region 8,8
+46,SOUTH DAKOTA,121,Todd,Region 8,8
+46,SOUTH DAKOTA,123,Tripp,Region 8,8
+46,SOUTH DAKOTA,125,Turner,Region 8,8
+46,SOUTH DAKOTA,127,Union,Region 8,8
+46,SOUTH DAKOTA,129,Walworth,Region 8,8
+46,SOUTH DAKOTA,135,Yankton,Region 8,8
+46,SOUTH DAKOTA,137,Ziebach,Region 8,8
+47,TENNESSEE,1,Anderson,Region 4,4
+47,TENNESSEE,3,Bedford,Region 4,4
+47,TENNESSEE,5,Benton,Region 4,4
+47,TENNESSEE,7,Bledsoe,Region 4,4
+47,TENNESSEE,9,Blount,Region 4,4
+47,TENNESSEE,11,Bradley,Region 4,4
+47,TENNESSEE,13,Campbell,Region 4,4
+47,TENNESSEE,15,Cannon,Region 4,4
+47,TENNESSEE,17,Carroll,Region 4,4
+47,TENNESSEE,19,Carter,Region 4,4
+47,TENNESSEE,21,Cheatham,Region 4,4
+47,TENNESSEE,23,Chester,Region 4,4
+47,TENNESSEE,25,Claiborne,Region 4,4
+47,TENNESSEE,27,Clay,Region 4,4
+47,TENNESSEE,29,Cocke,Region 4,4
+47,TENNESSEE,31,Coffee,Region 4,4
+47,TENNESSEE,33,Crockett,Region 4,4
+47,TENNESSEE,35,Cumberland,Region 4,4
+47,TENNESSEE,37,Davidson,Region 4,4
+47,TENNESSEE,39,Decatur,Region 4,4
+47,TENNESSEE,41,DeKalb,Region 4,4
+47,TENNESSEE,43,Dickson,Region 4,4
+47,TENNESSEE,45,Dyer,Region 4,4
+47,TENNESSEE,47,Fayette,Region 4,4
+47,TENNESSEE,49,Fentress,Region 4,4
+47,TENNESSEE,51,Franklin,Region 4,4
+47,TENNESSEE,53,Gibson,Region 4,4
+47,TENNESSEE,55,Giles,Region 4,4
+47,TENNESSEE,57,Grainger,Region 4,4
+47,TENNESSEE,59,Greene,Region 4,4
+47,TENNESSEE,61,Grundy,Region 4,4
+47,TENNESSEE,63,Hamblen,Region 4,4
+47,TENNESSEE,65,Hamilton,Region 4,4
+47,TENNESSEE,67,Hancock,Region 4,4
+47,TENNESSEE,69,Hardeman,Region 4,4
+47,TENNESSEE,71,Hardin,Region 4,4
+47,TENNESSEE,73,Hawkins,Region 4,4
+47,TENNESSEE,75,Haywood,Region 4,4
+47,TENNESSEE,77,Henderson,Region 4,4
+47,TENNESSEE,79,Henry,Region 4,4
+47,TENNESSEE,81,Hickman,Region 4,4
+47,TENNESSEE,83,Houston,Region 4,4
+47,TENNESSEE,85,Humphreys,Region 4,4
+47,TENNESSEE,87,Jackson,Region 4,4
+47,TENNESSEE,89,Jefferson,Region 4,4
+47,TENNESSEE,91,Johnson,Region 4,4
+47,TENNESSEE,93,Knox,Region 4,4
+47,TENNESSEE,95,Lake,Region 4,4
+47,TENNESSEE,97,Lauderdale,Region 4,4
+47,TENNESSEE,99,Lawrence,Region 4,4
+47,TENNESSEE,101,Lewis,Region 4,4
+47,TENNESSEE,103,Lincoln,Region 4,4
+47,TENNESSEE,105,Loudon,Region 4,4
+47,TENNESSEE,107,McMinn,Region 4,4
+47,TENNESSEE,109,McNairy,Region 4,4
+47,TENNESSEE,111,Macon,Region 4,4
+47,TENNESSEE,113,Madison,Region 4,4
+47,TENNESSEE,115,Marion,Region 4,4
+47,TENNESSEE,117,Marshall,Region 4,4
+47,TENNESSEE,119,Maury,Region 4,4
+47,TENNESSEE,121,Meigs,Region 4,4
+47,TENNESSEE,123,Monroe,Region 4,4
+47,TENNESSEE,125,Montgomery,Region 4,4
+47,TENNESSEE,127,Moore,Region 4,4
+47,TENNESSEE,129,Morgan,Region 4,4
+47,TENNESSEE,131,Obion,Region 4,4
+47,TENNESSEE,133,Overton,Region 4,4
+47,TENNESSEE,135,Perry,Region 4,4
+47,TENNESSEE,137,Pickett,Region 4,4
+47,TENNESSEE,139,Polk,Region 4,4
+47,TENNESSEE,141,Putnam,Region 4,4
+47,TENNESSEE,143,Rhea,Region 4,4
+47,TENNESSEE,145,Roane,Region 4,4
+47,TENNESSEE,147,Robertson,Region 4,4
+47,TENNESSEE,149,Rutherford,Region 4,4
+47,TENNESSEE,151,Scott,Region 4,4
+47,TENNESSEE,153,Sequatchie,Region 4,4
+47,TENNESSEE,155,Sevier,Region 4,4
+47,TENNESSEE,157,Shelby,Region 4,4
+47,TENNESSEE,159,Smith,Region 4,4
+47,TENNESSEE,161,Stewart,Region 4,4
+47,TENNESSEE,163,Sullivan,Region 4,4
+47,TENNESSEE,165,Sumner,Region 4,4
+47,TENNESSEE,167,Tipton,Region 4,4
+47,TENNESSEE,169,Trousdale,Region 4,4
+47,TENNESSEE,171,Unicoi,Region 4,4
+47,TENNESSEE,173,Union,Region 4,4
+47,TENNESSEE,175,Van Buren,Region 4,4
+47,TENNESSEE,177,Warren,Region 4,4
+47,TENNESSEE,179,Washington,Region 4,4
+47,TENNESSEE,181,Wayne,Region 4,4
+47,TENNESSEE,183,Weakley,Region 4,4
+47,TENNESSEE,185,White,Region 4,4
+47,TENNESSEE,187,Williamson,Region 4,4
+47,TENNESSEE,189,Wilson,Region 4,4
+48,TEXAS,1,Anderson,Region 6,6
+48,TEXAS,3,Andrews,Region 6,6
+48,TEXAS,5,Angelina,Region 6,6
+48,TEXAS,7,Aransas,Region 6,6
+48,TEXAS,9,Archer,Region 6,6
+48,TEXAS,11,Armstrong,Region 6,6
+48,TEXAS,13,Atascosa,Region 6,6
+48,TEXAS,15,Austin,Region 6,6
+48,TEXAS,17,Bailey,Region 6,6
+48,TEXAS,19,Bandera,Region 6,6
+48,TEXAS,21,Bastrop,Region 6,6
+48,TEXAS,23,Baylor,Region 6,6
+48,TEXAS,25,Bee,Region 6,6
+48,TEXAS,27,Bell,Region 6,6
+48,TEXAS,29,Bexar,Region 6,6
+48,TEXAS,31,Blanco,Region 6,6
+48,TEXAS,33,Borden,Region 6,6
+48,TEXAS,35,Bosque,Region 6,6
+48,TEXAS,37,Bowie,Region 6,6
+48,TEXAS,39,Brazoria,Region 6,6
+48,TEXAS,41,Brazos,Region 6,6
+48,TEXAS,43,Brewster,Region 6,6
+48,TEXAS,45,Briscoe,Region 6,6
+48,TEXAS,47,Brooks,Region 6,6
+48,TEXAS,49,Brown,Region 6,6
+48,TEXAS,51,Burleson,Region 6,6
+48,TEXAS,53,Burnet,Region 6,6
+48,TEXAS,55,Caldwell,Region 6,6
+48,TEXAS,57,Calhoun,Region 6,6
+48,TEXAS,59,Callahan,Region 6,6
+48,TEXAS,61,Cameron,Region 6,6
+48,TEXAS,63,Camp,Region 6,6
+48,TEXAS,65,Carson,Region 6,6
+48,TEXAS,67,Cass,Region 6,6
+48,TEXAS,69,Castro,Region 6,6
+48,TEXAS,71,Chambers,Region 6,6
+48,TEXAS,73,Cherokee,Region 6,6
+48,TEXAS,75,Childress,Region 6,6
+48,TEXAS,77,Clay,Region 6,6
+48,TEXAS,79,Cochran,Region 6,6
+48,TEXAS,81,Coke,Region 6,6
+48,TEXAS,83,Coleman,Region 6,6
+48,TEXAS,85,Collin,Region 6,6
+48,TEXAS,87,Collingsworth,Region 6,6
+48,TEXAS,89,Colorado,Region 6,6
+48,TEXAS,91,Comal,Region 6,6
+48,TEXAS,95,Concho,Region 6,6
+48,TEXAS,97,Cooke,Region 6,6
+48,TEXAS,99,Coryell,Region 6,6
+48,TEXAS,101,Cottle,Region 6,6
+48,TEXAS,103,Crane,Region 6,6
+48,TEXAS,105,Crockett,Region 6,6
+48,TEXAS,107,Crosby,Region 6,6
+48,TEXAS,109,Culberson,Region 6,6
+48,TEXAS,111,Dallam,Region 6,6
+48,TEXAS,113,Dallas,Region 6,6
+48,TEXAS,115,Dawson,Region 6,6
+48,TEXAS,117,Deaf Smith,Region 6,6
+48,TEXAS,119,Delta,Region 6,6
+48,TEXAS,121,Denton,Region 6,6
+48,TEXAS,123,DeWitt,Region 6,6
+48,TEXAS,125,Dickens,Region 6,6
+48,TEXAS,127,Dimmit,Region 6,6
+48,TEXAS,129,Donley,Region 6,6
+48,TEXAS,131,Duval,Region 6,6
+48,TEXAS,133,Eastland,Region 6,6
+48,TEXAS,135,Ector,Region 6,6
+48,TEXAS,137,Edwards,Region 6,6
+48,TEXAS,139,Ellis,Region 6,6
+48,TEXAS,141,El Paso,Region 6,6
+48,TEXAS,143,Erath,Region 6,6
+48,TEXAS,145,Falls,Region 6,6
+48,TEXAS,147,Fannin,Region 6,6
+48,TEXAS,149,Fayette,Region 6,6
+48,TEXAS,151,Fisher,Region 6,6
+48,TEXAS,153,Floyd,Region 6,6
+48,TEXAS,155,Foard,Region 6,6
+48,TEXAS,157,Fort Bend,Region 6,6
+48,TEXAS,159,Franklin,Region 6,6
+48,TEXAS,161,Freestone,Region 6,6
+48,TEXAS,163,Frio,Region 6,6
+48,TEXAS,165,Gaines,Region 6,6
+48,TEXAS,167,Galveston,Region 6,6
+48,TEXAS,169,Garza,Region 6,6
+48,TEXAS,171,Gillespie,Region 6,6
+48,TEXAS,173,Glasscock,Region 6,6
+48,TEXAS,175,Goliad,Region 6,6
+48,TEXAS,177,Gonzales,Region 6,6
+48,TEXAS,179,Gray,Region 6,6
+48,TEXAS,181,Grayson,Region 6,6
+48,TEXAS,183,Gregg,Region 6,6
+48,TEXAS,185,Grimes,Region 6,6
+48,TEXAS,187,Guadalupe,Region 6,6
+48,TEXAS,189,Hale,Region 6,6
+48,TEXAS,191,Hall,Region 6,6
+48,TEXAS,193,Hamilton,Region 6,6
+48,TEXAS,195,Hansford,Region 6,6
+48,TEXAS,197,Hardeman,Region 6,6
+48,TEXAS,199,Hardin,Region 6,6
+48,TEXAS,201,Harris,Region 6,6
+48,TEXAS,203,Harrison,Region 6,6
+48,TEXAS,205,Hartley,Region 6,6
+48,TEXAS,207,Haskell,Region 6,6
+48,TEXAS,209,Hays,Region 6,6
+48,TEXAS,211,Hemphill,Region 6,6
+48,TEXAS,213,Henderson,Region 6,6
+48,TEXAS,215,Hidalgo,Region 6,6
+48,TEXAS,217,Hill,Region 6,6
+48,TEXAS,219,Hockley,Region 6,6
+48,TEXAS,221,Hood,Region 6,6
+48,TEXAS,223,Hopkins,Region 6,6
+48,TEXAS,225,Houston,Region 6,6
+48,TEXAS,227,Howard,Region 6,6
+48,TEXAS,229,Hudspeth,Region 6,6
+48,TEXAS,231,Hunt,Region 6,6
+48,TEXAS,233,Hutchinson,Region 6,6
+48,TEXAS,235,Irion,Region 6,6
+48,TEXAS,237,Jack,Region 6,6
+48,TEXAS,239,Jackson,Region 6,6
+48,TEXAS,241,Jasper,Region 6,6
+48,TEXAS,243,Jeff Davis,Region 6,6
+48,TEXAS,245,Jefferson,Region 6,6
+48,TEXAS,247,Jim Hogg,Region 6,6
+48,TEXAS,249,Jim Wells,Region 6,6
+48,TEXAS,251,Johnson,Region 6,6
+48,TEXAS,253,Jones,Region 6,6
+48,TEXAS,255,Karnes,Region 6,6
+48,TEXAS,257,Kaufman,Region 6,6
+48,TEXAS,259,Kendall,Region 6,6
+48,TEXAS,261,Kenedy,Region 6,6
+48,TEXAS,263,Kent,Region 6,6
+48,TEXAS,265,Kerr,Region 6,6
+48,TEXAS,267,Kimble,Region 6,6
+48,TEXAS,269,King,Region 6,6
+48,TEXAS,271,Kinney,Region 6,6
+48,TEXAS,273,Kleberg,Region 6,6
+48,TEXAS,275,Knox,Region 6,6
+48,TEXAS,277,Lamar,Region 6,6
+48,TEXAS,279,Lamb,Region 6,6
+48,TEXAS,281,Lampasas,Region 6,6
+48,TEXAS,283,La Salle,Region 6,6
+48,TEXAS,285,Lavaca,Region 6,6
+48,TEXAS,287,Lee,Region 6,6
+48,TEXAS,289,Leon,Region 6,6
+48,TEXAS,291,Liberty,Region 6,6
+48,TEXAS,293,Limestone,Region 6,6
+48,TEXAS,295,Lipscomb,Region 6,6
+48,TEXAS,297,Live Oak,Region 6,6
+48,TEXAS,299,Llano,Region 6,6
+48,TEXAS,301,Loving,Region 6,6
+48,TEXAS,303,Lubbock,Region 6,6
+48,TEXAS,305,Lynn,Region 6,6
+48,TEXAS,307,McCulloch,Region 6,6
+48,TEXAS,309,McLennan,Region 6,6
+48,TEXAS,311,McMullen,Region 6,6
+48,TEXAS,313,Madison,Region 6,6
+48,TEXAS,315,Marion,Region 6,6
+48,TEXAS,317,Martin,Region 6,6
+48,TEXAS,319,Mason,Region 6,6
+48,TEXAS,321,Matagorda,Region 6,6
+48,TEXAS,323,Maverick,Region 6,6
+48,TEXAS,325,Medina,Region 6,6
+48,TEXAS,327,Menard,Region 6,6
+48,TEXAS,329,Midland,Region 6,6
+48,TEXAS,331,Milam,Region 6,6
+48,TEXAS,333,Mills,Region 6,6
+48,TEXAS,335,Mitchell,Region 6,6
+48,TEXAS,337,Montague,Region 6,6
+48,TEXAS,339,Montgomery,Region 6,6
+48,TEXAS,341,Moore,Region 6,6
+48,TEXAS,343,Morris,Region 6,6
+48,TEXAS,345,Motley,Region 6,6
+48,TEXAS,347,Nacogdoches,Region 6,6
+48,TEXAS,349,Navarro,Region 6,6
+48,TEXAS,351,Newton,Region 6,6
+48,TEXAS,353,Nolan,Region 6,6
+48,TEXAS,355,Nueces,Region 6,6
+48,TEXAS,357,Ochiltree,Region 6,6
+48,TEXAS,359,Oldham,Region 6,6
+48,TEXAS,361,Orange,Region 6,6
+48,TEXAS,363,Palo Pinto,Region 6,6
+48,TEXAS,365,Panola,Region 6,6
+48,TEXAS,367,Parker,Region 6,6
+48,TEXAS,369,Parmer,Region 6,6
+48,TEXAS,371,Pecos,Region 6,6
+48,TEXAS,373,Polk,Region 6,6
+48,TEXAS,375,Potter,Region 6,6
+48,TEXAS,377,Presidio,Region 6,6
+48,TEXAS,379,Rains,Region 6,6
+48,TEXAS,381,Randall,Region 6,6
+48,TEXAS,383,Reagan,Region 6,6
+48,TEXAS,385,Real,Region 6,6
+48,TEXAS,387,Red River,Region 6,6
+48,TEXAS,389,Reeves,Region 6,6
+48,TEXAS,391,Refugio,Region 6,6
+48,TEXAS,393,Roberts,Region 6,6
+48,TEXAS,395,Robertson,Region 6,6
+48,TEXAS,397,Rockwall,Region 6,6
+48,TEXAS,399,Runnels,Region 6,6
+48,TEXAS,401,Rusk,Region 6,6
+48,TEXAS,403,Sabine,Region 6,6
+48,TEXAS,405,San Augustine,Region 6,6
+48,TEXAS,407,San Jacinto,Region 6,6
+48,TEXAS,409,San Patricio,Region 6,6
+48,TEXAS,411,San Saba,Region 6,6
+48,TEXAS,413,Schleicher,Region 6,6
+48,TEXAS,415,Scurry,Region 6,6
+48,TEXAS,417,Shackelford,Region 6,6
+48,TEXAS,419,Shelby,Region 6,6
+48,TEXAS,421,Sherman,Region 6,6
+48,TEXAS,423,Smith,Region 6,6
+48,TEXAS,425,Somervell,Region 6,6
+48,TEXAS,427,Starr,Region 6,6
+48,TEXAS,429,Stephens,Region 6,6
+48,TEXAS,431,Sterling,Region 6,6
+48,TEXAS,433,Stonewall,Region 6,6
+48,TEXAS,435,Sutton,Region 6,6
+48,TEXAS,437,Swisher,Region 6,6
+48,TEXAS,439,Tarrant,Region 6,6
+48,TEXAS,441,Taylor,Region 6,6
+48,TEXAS,443,Terrell,Region 6,6
+48,TEXAS,445,Terry,Region 6,6
+48,TEXAS,447,Throckmorton,Region 6,6
+48,TEXAS,449,Titus,Region 6,6
+48,TEXAS,451,Tom Green,Region 6,6
+48,TEXAS,453,Travis,Region 6,6
+48,TEXAS,455,Trinity,Region 6,6
+48,TEXAS,457,Tyler,Region 6,6
+48,TEXAS,459,Upshur,Region 6,6
+48,TEXAS,461,Upton,Region 6,6
+48,TEXAS,463,Uvalde,Region 6,6
+48,TEXAS,465,Val Verde,Region 6,6
+48,TEXAS,467,Van Zandt,Region 6,6
+48,TEXAS,469,Victoria,Region 6,6
+48,TEXAS,471,Walker,Region 6,6
+48,TEXAS,473,Waller,Region 6,6
+48,TEXAS,475,Ward,Region 6,6
+48,TEXAS,477,Washington,Region 6,6
+48,TEXAS,479,Webb,Region 6,6
+48,TEXAS,481,Wharton,Region 6,6
+48,TEXAS,483,Wheeler,Region 6,6
+48,TEXAS,485,Wichita,Region 6,6
+48,TEXAS,487,Wilbarger,Region 6,6
+48,TEXAS,489,Willacy,Region 6,6
+48,TEXAS,491,Williamson,Region 6,6
+48,TEXAS,493,Wilson,Region 6,6
+48,TEXAS,495,Winkler,Region 6,6
+48,TEXAS,497,Wise,Region 6,6
+48,TEXAS,499,Wood,Region 6,6
+48,TEXAS,501,Yoakum,Region 6,6
+48,TEXAS,503,Young,Region 6,6
+48,TEXAS,505,Zapata,Region 6,6
+48,TEXAS,507,Zavala,Region 6,6
+49,UTAH,1,Beaver,Region 8,8
+49,UTAH,3,Box Elder,Region 8,8
+49,UTAH,5,Cache,Region 8,8
+49,UTAH,7,Carbon,Region 8,8
+49,UTAH,9,Daggett,Region 8,8
+49,UTAH,11,Davis,Region 8,8
+49,UTAH,13,Duchesne,Region 8,8
+49,UTAH,15,Emery,Region 8,8
+49,UTAH,17,Garfield,Region 8,8
+49,UTAH,19,Grand,Region 8,8
+49,UTAH,21,Iron,Region 8,8
+49,UTAH,23,Juab,Region 8,8
+49,UTAH,25,Kane,Region 8,8
+49,UTAH,27,Millard,Region 8,8
+49,UTAH,29,Morgan,Region 8,8
+49,UTAH,31,Piute,Region 8,8
+49,UTAH,33,Rich,Region 8,8
+49,UTAH,35,Salt Lake,Region 8,8
+49,UTAH,37,San Juan,Region 8,8
+49,UTAH,39,Sanpete,Region 8,8
+49,UTAH,41,Sevier,Region 8,8
+49,UTAH,43,Summit,Region 8,8
+49,UTAH,45,Tooele,Region 8,8
+49,UTAH,47,Uintah,Region 8,8
+49,UTAH,49,Utah,Region 8,8
+49,UTAH,51,Wasatch,Region 8,8
+49,UTAH,53,Washington,Region 8,8
+49,UTAH,55,Wayne,Region 8,8
+49,UTAH,57,Weber,Region 8,8
+50,VERMONT,1,Addison,Region 1,1
+50,VERMONT,3,Bennington,Region 1,1
+50,VERMONT,5,Caledonia,Region 1,1
+50,VERMONT,7,Chittenden,Region 1,1
+50,VERMONT,9,Essex,Region 1,1
+50,VERMONT,11,Franklin,Region 1,1
+50,VERMONT,13,Grand Isle,Region 1,1
+50,VERMONT,15,Lamoille,Region 1,1
+50,VERMONT,17,Orange,Region 1,1
+50,VERMONT,19,Orleans,Region 1,1
+50,VERMONT,21,Rutland,Region 1,1
+50,VERMONT,23,Washington,Region 1,1
+50,VERMONT,25,Windham,Region 1,1
+50,VERMONT,27,Windsor,Region 1,1
+51,VIRGINIA,1,Accomack,Region 3,3
+51,VIRGINIA,3,Albemarle,Region 3,3
+51,VIRGINIA,5,Alleghany,Region 3,3
+51,VIRGINIA,7,Amelia,Region 3,3
+51,VIRGINIA,9,Amherst,Region 3,3
+51,VIRGINIA,11,Appomattox,Region 3,3
+51,VIRGINIA,13,Arlington,Region 3,3
+51,VIRGINIA,15,Augusta,Region 3,3
+51,VIRGINIA,17,Bath,Region 3,3
+51,VIRGINIA,19,Bedford,Region 3,3
+51,VIRGINIA,21,Bland,Region 3,3
+51,VIRGINIA,23,Botetourt,Region 3,3
+51,VIRGINIA,25,Brunswick,Region 3,3
+51,VIRGINIA,27,Buchanan,Region 3,3
+51,VIRGINIA,29,Buckingham,Region 3,3
+51,VIRGINIA,31,Campbell,Region 3,3
+51,VIRGINIA,33,Caroline,Region 3,3
+51,VIRGINIA,35,Carroll,Region 3,3
+51,VIRGINIA,36,Charles City,Region 3,3
+51,VIRGINIA,37,Charlotte,Region 3,3
+51,VIRGINIA,41,Chesterfield,Region 3,3
+51,VIRGINIA,43,Clarke,Region 3,3
+51,VIRGINIA,45,Craig,Region 3,3
+51,VIRGINIA,47,Culpeper,Region 3,3
+51,VIRGINIA,49,Cumberland,Region 3,3
+51,VIRGINIA,51,Dickenson,Region 3,3
+51,VIRGINIA,53,Dinwiddie,Region 3,3
+51,VIRGINIA,57,Essex,Region 3,3
+51,VIRGINIA,59,Fairfax,Region 3,3
+51,VIRGINIA,61,Fauquier,Region 3,3
+51,VIRGINIA,63,Floyd,Region 3,3
+51,VIRGINIA,65,Fluvanna,Region 3,3
+51,VIRGINIA,67,Franklin,Region 3,3
+51,VIRGINIA,69,Frederick,Region 3,3
+51,VIRGINIA,71,Giles,Region 3,3
+51,VIRGINIA,73,Gloucester,Region 3,3
+51,VIRGINIA,75,Goochland,Region 3,3
+51,VIRGINIA,77,Grayson,Region 3,3
+51,VIRGINIA,79,Greene,Region 3,3
+51,VIRGINIA,81,Greensville,Region 3,3
+51,VIRGINIA,83,Halifax,Region 3,3
+51,VIRGINIA,85,Hanover,Region 3,3
+51,VIRGINIA,87,Henrico,Region 3,3
+51,VIRGINIA,89,Henry,Region 3,3
+51,VIRGINIA,91,Highland,Region 3,3
+51,VIRGINIA,93,Isle of Wight,Region 3,3
+51,VIRGINIA,95,James City,Region 3,3
+51,VIRGINIA,97,King and Queen,Region 3,3
+51,VIRGINIA,99,King George,Region 3,3
+51,VIRGINIA,101,King William,Region 3,3
+51,VIRGINIA,103,Lancaster,Region 3,3
+51,VIRGINIA,105,Lee,Region 3,3
+51,VIRGINIA,107,Loudoun,Region 3,3
+51,VIRGINIA,109,Louisa,Region 3,3
+51,VIRGINIA,111,Lunenburg,Region 3,3
+51,VIRGINIA,113,Madison,Region 3,3
+51,VIRGINIA,115,Mathews,Region 3,3
+51,VIRGINIA,117,Mecklenburg,Region 3,3
+51,VIRGINIA,119,Middlesex,Region 3,3
+51,VIRGINIA,121,Montgomery,Region 3,3
+51,VIRGINIA,125,Nelson,Region 3,3
+51,VIRGINIA,127,New Kent,Region 3,3
+51,VIRGINIA,131,Northampton,Region 3,3
+51,VIRGINIA,133,Northumberland,Region 3,3
+51,VIRGINIA,135,Nottoway,Region 3,3
+51,VIRGINIA,137,Orange,Region 3,3
+51,VIRGINIA,139,Page,Region 3,3
+51,VIRGINIA,141,Patrick,Region 3,3
+51,VIRGINIA,143,Pittsylvania,Region 3,3
+51,VIRGINIA,145,Powhatan,Region 3,3
+51,VIRGINIA,147,Prince Edward,Region 3,3
+51,VIRGINIA,149,Prince George,Region 3,3
+51,VIRGINIA,153,Prince William,Region 3,3
+51,VIRGINIA,155,Pulaski,Region 3,3
+51,VIRGINIA,157,Rappahannock,Region 3,3
+51,VIRGINIA,159,Richmond,Region 3,3
+51,VIRGINIA,161,Roanoke,Region 3,3
+51,VIRGINIA,163,Rockbridge,Region 3,3
+51,VIRGINIA,165,Rockingham,Region 3,3
+51,VIRGINIA,167,Russell,Region 3,3
+51,VIRGINIA,169,Scott,Region 3,3
+51,VIRGINIA,171,Shenandoah,Region 3,3
+51,VIRGINIA,173,Smyth,Region 3,3
+51,VIRGINIA,175,Southampton,Region 3,3
+51,VIRGINIA,177,Spotsylvania,Region 3,3
+51,VIRGINIA,179,Stafford,Region 3,3
+51,VIRGINIA,181,Surry,Region 3,3
+51,VIRGINIA,183,Sussex,Region 3,3
+51,VIRGINIA,185,Tazewell,Region 3,3
+51,VIRGINIA,187,Warren,Region 3,3
+51,VIRGINIA,191,Washington,Region 3,3
+51,VIRGINIA,193,Westmoreland,Region 3,3
+51,VIRGINIA,195,Wise,Region 3,3
+51,VIRGINIA,197,Wythe,Region 3,3
+51,VIRGINIA,199,York,Region 3,3
+51,VIRGINIA,510,Alexandria,Region 3,3
+51,VIRGINIA,520,Bristol,Region 3,3
+51,VIRGINIA,530,Buena Vista,Region 3,3
+51,VIRGINIA,540,Charlottesville,Region 3,3
+51,VIRGINIA,550,Chesapeake,Region 3,3
+51,VIRGINIA,570,Colonial Heights,Region 3,3
+51,VIRGINIA,580,Covington,Region 3,3
+51,VIRGINIA,590,Danville,Region 3,3
+51,VIRGINIA,595,Emporia,Region 3,3
+51,VIRGINIA,600,Fairfax,Region 3,3
+51,VIRGINIA,610,Falls Church,Region 3,3
+51,VIRGINIA,620,Franklin,Region 3,3
+51,VIRGINIA,630,Fredericksburg,Region 3,3
+51,VIRGINIA,640,Galax,Region 3,3
+51,VIRGINIA,650,Hampton,Region 3,3
+51,VIRGINIA,660,Harrisonburg,Region 3,3
+51,VIRGINIA,670,Hopewell,Region 3,3
+51,VIRGINIA,678,Lexington,Region 3,3
+51,VIRGINIA,680,Lynchburg,Region 3,3
+51,VIRGINIA,683,Manassas,Region 3,3
+51,VIRGINIA,685,Manassas Park,Region 3,3
+51,VIRGINIA,690,Martinsville,Region 3,3
+51,VIRGINIA,700,Newport News,Region 3,3
+51,VIRGINIA,710,Norfolk,Region 3,3
+51,VIRGINIA,720,Norton,Region 3,3
+51,VIRGINIA,730,Petersburg,Region 3,3
+51,VIRGINIA,735,Poquoson,Region 3,3
+51,VIRGINIA,740,Portsmouth,Region 3,3
+51,VIRGINIA,750,Radford,Region 3,3
+51,VIRGINIA,760,Richmond,Region 3,3
+51,VIRGINIA,770,Roanoke,Region 3,3
+51,VIRGINIA,775,Salem,Region 3,3
+51,VIRGINIA,790,Staunton,Region 3,3
+51,VIRGINIA,800,Suffolk,Region 3,3
+51,VIRGINIA,810,Virginia Beach,Region 3,3
+51,VIRGINIA,820,Waynesboro,Region 3,3
+51,VIRGINIA,830,Williamsburg,Region 3,3
+51,VIRGINIA,840,Winchester,Region 3,3
+53,WASHINGTON,1,Adams,Region 10,10
+53,WASHINGTON,3,Asotin,Region 10,10
+53,WASHINGTON,5,Benton,Region 10,10
+53,WASHINGTON,7,Chelan,Region 10,10
+53,WASHINGTON,9,Clallam,Region 10,10
+53,WASHINGTON,11,Clark,Region 10,10
+53,WASHINGTON,13,Columbia,Region 10,10
+53,WASHINGTON,15,Cowlitz,Region 10,10
+53,WASHINGTON,17,Douglas,Region 10,10
+53,WASHINGTON,19,Ferry,Region 10,10
+53,WASHINGTON,21,Franklin,Region 10,10
+53,WASHINGTON,23,Garfield,Region 10,10
+53,WASHINGTON,25,Grant,Region 10,10
+53,WASHINGTON,27,Grays Harbor,Region 10,10
+53,WASHINGTON,29,Island,Region 10,10
+53,WASHINGTON,31,Jefferson,Region 10,10
+53,WASHINGTON,33,King,Region 10,10
+53,WASHINGTON,35,Kitsap,Region 10,10
+53,WASHINGTON,37,Kittitas,Region 10,10
+53,WASHINGTON,39,Klickitat,Region 10,10
+53,WASHINGTON,41,Lewis,Region 10,10
+53,WASHINGTON,43,Lincoln,Region 10,10
+53,WASHINGTON,45,Mason,Region 10,10
+53,WASHINGTON,47,Okanogan,Region 10,10
+53,WASHINGTON,49,Pacific,Region 10,10
+53,WASHINGTON,51,Pend Oreille,Region 10,10
+53,WASHINGTON,53,Pierce,Region 10,10
+53,WASHINGTON,55,San Juan,Region 10,10
+53,WASHINGTON,57,Skagit,Region 10,10
+53,WASHINGTON,59,Skamania,Region 10,10
+53,WASHINGTON,61,Snohomish,Region 10,10
+53,WASHINGTON,63,Spokane,Region 10,10
+53,WASHINGTON,65,Stevens,Region 10,10
+53,WASHINGTON,67,Thurston,Region 10,10
+53,WASHINGTON,69,Wahkiakum,Region 10,10
+53,WASHINGTON,71,Walla Walla,Region 10,10
+53,WASHINGTON,73,Whatcom,Region 10,10
+53,WASHINGTON,75,Whitman,Region 10,10
+53,WASHINGTON,77,Yakima,Region 10,10
+54,WEST VIRGINIA,1,Barbour,Region 3,3
+54,WEST VIRGINIA,3,Berkeley,Region 3,3
+54,WEST VIRGINIA,5,Boone,Region 3,3
+54,WEST VIRGINIA,7,Braxton,Region 3,3
+54,WEST VIRGINIA,9,Brooke,Region 3,3
+54,WEST VIRGINIA,11,Cabell,Region 3,3
+54,WEST VIRGINIA,13,Calhoun,Region 3,3
+54,WEST VIRGINIA,15,Clay,Region 3,3
+54,WEST VIRGINIA,17,Doddridge,Region 3,3
+54,WEST VIRGINIA,19,Fayette,Region 3,3
+54,WEST VIRGINIA,21,Gilmer,Region 3,3
+54,WEST VIRGINIA,23,Grant,Region 3,3
+54,WEST VIRGINIA,25,Greenbrier,Region 3,3
+54,WEST VIRGINIA,27,Hampshire,Region 3,3
+54,WEST VIRGINIA,29,Hancock,Region 3,3
+54,WEST VIRGINIA,31,Hardy,Region 3,3
+54,WEST VIRGINIA,33,Harrison,Region 3,3
+54,WEST VIRGINIA,35,Jackson,Region 3,3
+54,WEST VIRGINIA,37,Jefferson,Region 3,3
+54,WEST VIRGINIA,39,Kanawha,Region 3,3
+54,WEST VIRGINIA,41,Lewis,Region 3,3
+54,WEST VIRGINIA,43,Lincoln,Region 3,3
+54,WEST VIRGINIA,45,Logan,Region 3,3
+54,WEST VIRGINIA,47,McDowell,Region 3,3
+54,WEST VIRGINIA,49,Marion,Region 3,3
+54,WEST VIRGINIA,51,Marshall,Region 3,3
+54,WEST VIRGINIA,53,Mason,Region 3,3
+54,WEST VIRGINIA,55,Mercer,Region 3,3
+54,WEST VIRGINIA,57,Mineral,Region 3,3
+54,WEST VIRGINIA,59,Mingo,Region 3,3
+54,WEST VIRGINIA,61,Monongalia,Region 3,3
+54,WEST VIRGINIA,63,Monroe,Region 3,3
+54,WEST VIRGINIA,65,Morgan,Region 3,3
+54,WEST VIRGINIA,67,Nicholas,Region 3,3
+54,WEST VIRGINIA,69,Ohio,Region 3,3
+54,WEST VIRGINIA,71,Pendleton,Region 3,3
+54,WEST VIRGINIA,73,Pleasants,Region 3,3
+54,WEST VIRGINIA,75,Pocahontas,Region 3,3
+54,WEST VIRGINIA,77,Preston,Region 3,3
+54,WEST VIRGINIA,79,Putnam,Region 3,3
+54,WEST VIRGINIA,81,Raleigh,Region 3,3
+54,WEST VIRGINIA,83,Randolph,Region 3,3
+54,WEST VIRGINIA,85,Ritchie,Region 3,3
+54,WEST VIRGINIA,87,Roane,Region 3,3
+54,WEST VIRGINIA,89,Summers,Region 3,3
+54,WEST VIRGINIA,91,Taylor,Region 3,3
+54,WEST VIRGINIA,93,Tucker,Region 3,3
+54,WEST VIRGINIA,95,Tyler,Region 3,3
+54,WEST VIRGINIA,97,Upshur,Region 3,3
+54,WEST VIRGINIA,99,Wayne,Region 3,3
+54,WEST VIRGINIA,101,Webster,Region 3,3
+54,WEST VIRGINIA,103,Wetzel,Region 3,3
+54,WEST VIRGINIA,105,Wirt,Region 3,3
+54,WEST VIRGINIA,107,Wood,Region 3,3
+54,WEST VIRGINIA,109,Wyoming,Region 3,3
+55,WISCONSIN,1,Adams,Region 5,5
+55,WISCONSIN,3,Ashland,Region 5,5
+55,WISCONSIN,5,Barron,Region 5,5
+55,WISCONSIN,7,Bayfield,Region 5,5
+55,WISCONSIN,9,Brown,Region 5,5
+55,WISCONSIN,11,Buffalo,Region 5,5
+55,WISCONSIN,13,Burnett,Region 5,5
+55,WISCONSIN,15,Calumet,Region 5,5
+55,WISCONSIN,17,Chippewa,Region 5,5
+55,WISCONSIN,19,Clark,Region 5,5
+55,WISCONSIN,21,Columbia,Region 5,5
+55,WISCONSIN,23,Crawford,Region 5,5
+55,WISCONSIN,25,Dane,Region 5,5
+55,WISCONSIN,27,Dodge,Region 5,5
+55,WISCONSIN,29,Door,Region 5,5
+55,WISCONSIN,31,Douglas,Region 5,5
+55,WISCONSIN,33,Dunn,Region 5,5
+55,WISCONSIN,35,Eau Claire,Region 5,5
+55,WISCONSIN,37,Florence,Region 5,5
+55,WISCONSIN,39,Fond du Lac,Region 5,5
+55,WISCONSIN,41,Forest,Region 5,5
+55,WISCONSIN,43,Grant,Region 5,5
+55,WISCONSIN,45,Green,Region 5,5
+55,WISCONSIN,47,Green Lake,Region 5,5
+55,WISCONSIN,49,Iowa,Region 5,5
+55,WISCONSIN,51,Iron,Region 5,5
+55,WISCONSIN,53,Jackson,Region 5,5
+55,WISCONSIN,55,Jefferson,Region 5,5
+55,WISCONSIN,57,Juneau,Region 5,5
+55,WISCONSIN,59,Kenosha,Region 5,5
+55,WISCONSIN,61,Kewaunee,Region 5,5
+55,WISCONSIN,63,La Crosse,Region 5,5
+55,WISCONSIN,65,Lafayette,Region 5,5
+55,WISCONSIN,67,Langlade,Region 5,5
+55,WISCONSIN,69,Lincoln,Region 5,5
+55,WISCONSIN,71,Manitowoc,Region 5,5
+55,WISCONSIN,73,Marathon,Region 5,5
+55,WISCONSIN,75,Marinette,Region 5,5
+55,WISCONSIN,77,Marquette,Region 5,5
+55,WISCONSIN,78,Menominee,Region 5,5
+55,WISCONSIN,79,Milwaukee,Region 5,5
+55,WISCONSIN,81,Monroe,Region 5,5
+55,WISCONSIN,83,Oconto,Region 5,5
+55,WISCONSIN,85,Oneida,Region 5,5
+55,WISCONSIN,87,Outagamie,Region 5,5
+55,WISCONSIN,89,Ozaukee,Region 5,5
+55,WISCONSIN,91,Pepin,Region 5,5
+55,WISCONSIN,93,Pierce,Region 5,5
+55,WISCONSIN,95,Polk,Region 5,5
+55,WISCONSIN,97,Portage,Region 5,5
+55,WISCONSIN,99,Price,Region 5,5
+55,WISCONSIN,101,Racine,Region 5,5
+55,WISCONSIN,103,Richland,Region 5,5
+55,WISCONSIN,105,Rock,Region 5,5
+55,WISCONSIN,107,Rusk,Region 5,5
+55,WISCONSIN,109,St. Croix,Region 5,5
+55,WISCONSIN,111,Sauk,Region 5,5
+55,WISCONSIN,113,Sawyer,Region 5,5
+55,WISCONSIN,115,Shawano,Region 5,5
+55,WISCONSIN,117,Sheboygan,Region 5,5
+55,WISCONSIN,119,Taylor,Region 5,5
+55,WISCONSIN,121,Trempealeau,Region 5,5
+55,WISCONSIN,123,Vernon,Region 5,5
+55,WISCONSIN,125,Vilas,Region 5,5
+55,WISCONSIN,127,Walworth,Region 5,5
+55,WISCONSIN,129,Washburn,Region 5,5
+55,WISCONSIN,131,Washington,Region 5,5
+55,WISCONSIN,133,Waukesha,Region 5,5
+55,WISCONSIN,135,Waupaca,Region 5,5
+55,WISCONSIN,137,Waushara,Region 5,5
+55,WISCONSIN,139,Winnebago,Region 5,5
+55,WISCONSIN,141,Wood,Region 5,5
+56,WYOMING,1,Albany,Region 8,8
+56,WYOMING,3,Big Horn,Region 8,8
+56,WYOMING,5,Campbell,Region 8,8
+56,WYOMING,7,Carbon,Region 8,8
+56,WYOMING,9,Converse,Region 8,8
+56,WYOMING,11,Crook,Region 8,8
+56,WYOMING,13,Fremont,Region 8,8
+56,WYOMING,15,Goshen,Region 8,8
+56,WYOMING,17,Hot Springs,Region 8,8
+56,WYOMING,19,Johnson,Region 8,8
+56,WYOMING,21,Laramie,Region 8,8
+56,WYOMING,23,Lincoln,Region 8,8
+56,WYOMING,25,Natrona,Region 8,8
+56,WYOMING,27,Niobrara,Region 8,8
+56,WYOMING,29,Park,Region 8,8
+56,WYOMING,31,Platte,Region 8,8
+56,WYOMING,33,Sheridan,Region 8,8
+56,WYOMING,35,Sublette,Region 8,8
+56,WYOMING,37,Sweetwater,Region 8,8
+56,WYOMING,39,Teton,Region 8,8
+56,WYOMING,41,Uinta,Region 8,8
+56,WYOMING,43,Washakie,Region 8,8
+56,WYOMING,45,Weston,Region 8,8
