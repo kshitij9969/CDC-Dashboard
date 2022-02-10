@@ -10,4 +10,4 @@ Flask_Caching==1.9.0
 numpy==1.19.5
 python_dateutil==2.8.1
 scikit_learn==0.24.0
-pyarrow==2.0.0
+pyarrow
